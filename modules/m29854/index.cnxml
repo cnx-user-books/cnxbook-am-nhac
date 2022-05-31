@@ -1,0 +1,498 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kiểu mảng</title>
+  <metadata>
+  <md:content-id>m29854</md:content-id><md:title>Kiểu mảng</md:title>
+  <md:abstract>Học xong chương này, sinh viên sẽ nắm được các vấn đề sau:
++ Khái niệm về kiểu dữ liệu mảng cũng như ứng dụng của nó.
++ Cách khai báo biến kiểu mảng và các phép toán trên các phần tử của mảng.</md:abstract>
+  <md:uuid>2c7aa82d-bbd5-480e-a583-e91d6a73644f</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-207530702522">
+      <title>GIỚI THIỆU KIỂU DỮ LIỆU “KIỂU MẢNG” TRONG C</title>
+      <para id="id7554040">Mảng là một tập hợp các phần tử cố định có cùng một kiểu, gọi là kiểu phần tử. Kiểu phần tử có thể là có các kiểu bất kỳ: ký tự, số, chuỗi ký tự…; cũng có khi ta sử dụng kiểu mảng để làm kiểu phần tử cho một mảng (trong trường hợp này ta gọi là mảng của mảng hay mảng nhiều chiều).</para>
+      <para id="id7554047">Ta có thể chia mảng làm 2 loại: mảng 1 chiều và mảng nhiều chiều.</para>
+      <para id="id7885120">Mảng là kiểu dữ liệu được sử dụng rất thường xuyên. Chẳng hạn người ta cần quản lý một danh sách họ và tên của khoảng 100 sinh viên trong một lớp. Nhận thấy rằng mỗi họ và tên để lưu trữ ta cần 1 biến kiểu chuỗi, như vậy 100 họ và tên thì cần khai báo 100 biến kiểu chuỗi. Nếu khai báo như thế này thì đoạn khai báo cũng như các thao tác trên các họ tên sẽ rất dài dòng và rắc rối. Vì thế, kiểu dữ liệu mảng giúp ích ta trong trường hợp này; chỉ cần khai báo 1 biến, biến này có thể coi như là tương đương với 100 biến chuỗi ký tự; đó là 1 mảng mà các phần tử của nó là chuỗi ký tự. Hay như để lưu trữ các từ khóa của ngôn ngữ lập trình C, ta cũng dùng đến một mảng để lưu trữ chúng.</para>
+    </section>
+    <section id="id-856199247221">
+      <title>MẢNG 1 CHIỀU</title>
+      <section id="id-633481822132">
+        <title>Nếu xét dưới góc độ toán học, mảng 1 chiều giống như một vector. Mỗi phần tử của mảng một chiều có giá trị không phải là một mảng khác.</title>
+        <para id="id6993967">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id-177702326504">
+        <title>Khai báo</title>
+        <section id="id-870597291309">
+          <title>Khai báo mảng với số phần tử xác định (khai báo tường minh)</title>
+          <para id="id7502165">Cú pháp: &lt;Kiểu&gt; &lt;Tên mảng &gt;&lt;[số phần tử]&gt;</para>
+          <para id="id7502176">Ý nghĩa: </para>
+          <para id="id7232106">- Tên mảng: đây là một cái tên đặt đúng theo quy tắc đặt tên của danh biểu. Tên này cũng mang ý nghĩa là tên biến mảng.</para>
+          <para id="id7450279">- Số phần tử: là một hằng số nguyên, cho biết số lượng phần tử tối đa trong mảng là bao nhiêu (hay nói khác đi kích thước của mảng là gì).</para>
+          <para id="id6269298">- Kiểu: mỗi phần tử của mảng có dữ liệu thuộc kiểu gì.</para>
+          <para id="id7914781">- Ở đây, ta khai báo một biến mảng gồm có số phần tử phần tử, phần tử thứ nhất là tên mảng [0], phần tử cuối cùng là tên mảng[số phần tử -1]</para>
+          <para id="id6361644">Ví dụ: </para>
+          <para id="id6361656">int a[10];/* Khai báo biến mảng tên a, phần tử thứ nhất là a[0], phần tử cuối cùng là a[9].*/</para>
+          <para id="id7223202">Ta có thể coi mảng a là một dãy liên tiếp các phần tử trong bộ nhớ như sau:</para>
+          <table id="id7575023" summary="">
+            <tgroup cols="11">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <tbody>
+                <row>
+                  <entry>Vị trí</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry>5</entry>
+                  <entry>6</entry>
+                  <entry>7</entry>
+                  <entry>8</entry>
+                  <entry>9</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                </row>
+                <row>
+                  <entry>Tên phần tử</entry>
+                  <entry>a[0]</entry>
+                  <entry>a[1]</entry>
+                  <entry>a[2]</entry>
+                  <entry>a[3]</entry>
+                  <entry>a[4]</entry>
+                  <entry>a[5]</entry>
+                  <entry>a[6]</entry>
+                  <entry>a[7]</entry>
+                  <entry>a[8]</entry>
+                  <entry>a[9]</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section id="id-0696524184861">
+          <title>Hình ảnh mảng a trong bộ nhớ</title>
+          <para id="id7662506">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-917250044229">
+          <title>Khai báo mảng với số phần tử không xác định (khai báo không tường minh)</title>
+          <para id="id6993828">Cú pháp: &lt;Kiểu&gt; &lt;Tên mảng&gt; &lt;[]&gt;</para>
+          <para id="id7726842">Khi khai báo, không cho biết rõ số phần tử của mảng, kiểu khai báo này thường được áp dụng trong các trường hợp: vừa khai báo vừa gán giá trị, khai báo mảng là tham số hình thức của hàm.</para>
+          <para id="id7726858">a. Vừa khai báo vừa gán giá trị</para>
+          <para id="id7865602">Cú pháp:</para>
+          <para id="id7865606">&lt;Kiểu&gt; &lt;Tên mảng&gt; []= {Các giá trị cách nhau bởi dấu phẩy}</para>
+          <para id="id6273027">Nếu vừa khai báo vừa gán giá trị thì mặc nhiên C sẽ hiểu số phần tử của mảng là số giá trị mà chúng ta gán cho mảng trong cặp dấu {}. Chúng ta có thể sử dụng hàm sizeof() để lấy số phần tử của mảng như sau:</para>
+          <para id="id6993996">Số phần tử=sizeof(tên mảng)/ sizeof(kiểu)</para>
+          <para id="id6263896">b. Khai báo mảng là tham số hình thức của hàm, trong trường hợp này ta không cần chỉ định số phần tử của mảng là bao nhiêu.</para>
+        </section>
+      </section>
+      <section id="id-54343186805">
+        <title>Truy xuất từng phần tử của mảng</title>
+        <para id="id6994394">Mỗi phần tử của mảng được truy xuất thông qua Tên biến mảng theo sau là chỉ số nằm trong cặp dấu ngoặc vuông [ ]. Chẳng hạn a[0] là phần tử đầu tiên của mảng a được khai báo ở trên. Chỉ số của phần tử mảng là một biểu thức mà giá trị là kiểu số nguyên.</para>
+        <para id="id6261667">Với cách truy xuất theo kiểu này, Tên biến mảng[Chỉ số] có thể coi như là một biến có kiểu dữ liệu là kiểu được chỉ ra trong khai báo biến mảng.</para>
+        <para id="id7590067">Ví dụ 1: </para>
+        <para id="id7590078">int a[10];</para>
+        <para id="id7272250">Trong khai báo này, việc truy xuất các phần tử được chỉ ra trong hình 1. Chẳng hạn phần tử thứ 2 (có vị trí 1) là a[1]…</para>
+        <para id="id7272262">Ví dụ 2: Vừa khai báo vừa gán trị cho 1 mảng 1 chiều các số nguyên. In mảng số nguyên này lên màn hình.</para>
+        <para id="id7488701">Giả sử ta đã biết số phần tử của mảng là n; việc hiển thị 1 giá trị số nguyên lên màn hình ta cần sử dụng hàm printf() với định dạng %d, tổng quát hóa lên nếu muốn hiển thị lên màn hình giá trị của n số nguyên, ta cần gọi hàm printf() đúng n lần. Như vậy trong trường hợp này ta sử dụng 1 vòng lặp để in ra giá trị các phần tử.</para>
+        <para id="id6267738">Ta có đoạn chương trình sau:</para>
+        <para id="id7963049">#include &lt;stdio.h&gt;</para>
+        <para id="id7963054">#include &lt;conio.h&gt;</para>
+        <para id="id7963059">int main()</para>
+        <para id="id7963063">{</para>
+        <para id="id6748980">int n,i,j,tam;</para>
+        <para id="id6748984">int dayso[]={66,65,69,68,67,70};</para>
+        <para id="id6748990">clrscr();</para>
+        <para id="id6748995">n=sizeof(dayso)/sizeof(int); /*Lấy số phần tử*/</para>
+        <para id="id7865761">printf("\n Noi dung cua mang ");</para>
+        <para id="id7931296">for (i=0;i&lt;n;i++)</para>
+        <para id="id7931307"> printf("%d ",dayso[i]);</para>
+        <para id="id7573937">return 0;</para>
+        <para id="id7573942">}</para>
+        <para id="id7573946">Ví dụ 3: Đổi một số nguyên dương thập phân thành số nhị phân. Việc chuyển đổi này được thực hiện bằng cách lấy số đó chia liên tiếp cho 2 cho tới khi bằng 0 và lấy các số dư theo chiều ngược lại để tạo thành số nhị phân. Ta sẽ dùng mảng một chiều để lưu lại các số dư đó. Chương trình cụ thể như sau:</para>
+        <para id="id7534237">#include&lt;conio.h&gt;</para>
+        <para id="id7534241">#include&lt;stdio.h&gt;</para>
+        <para id="id7536834">int main()</para>
+        <para id="id7536838">{</para>
+        <para id="id7726703">unsigned int N;</para>
+        <para id="id7726708">unsigned int Du;</para>
+        <para id="id7726714">unsigned int NhiPhan[20],K=0,i;</para>
+        <para id="id7726722">printf("Nhap vao so nguyen N= ");scanf("%d",&amp;N);</para>
+        <para id="id7240396">do</para>
+        <para id="id7240404">{</para>
+        <para id="id7240089">Du=N % 2;</para>
+        <para id="id7240095">NhiPhan[K]=Du; /* Lưu số dư vào mảng ở vị trí K*/</para>
+        <para id="id6261675">K++;/* Tăng K lên để lần kế lưu vào vị trí kế*/</para>
+        <para id="id6261689">N = N/2;</para>
+        <para id="id7537421">} while(N&gt;0);</para>
+        <para id="id7537427">printf("Dang nhi phan la: ");</para>
+        <para id="id7537432">for(i=K-1;i&gt;=0;i--)</para>
+        <para id="id6146598">printf("%d",NhiPhan[i]);</para>
+        <para id="id6146608">getch();</para>
+        <para id="id6146613">return 0;</para>
+        <para id="id6263347">}</para>
+        <para id="id6263351">Ví dụ 4: Nhập vào một dãy n số và sắp xếp các số theo thứ tự tăng. Đây là một bài toán có ứng dụng rộng rãi trong nhiều lĩnh vực. Có rất nhiều giải thuật sắp xếp. Một trong số đó được mô tả như sau:</para>
+        <para id="id6263361">Đầu tiên đưa phần tử thứ nhất so sánh với các phần tử còn lại, nếu nó lớn hơn một phần tử đang so sánh thì đổi chỗ hai phần tử cho nhau. Sau đó tiếp tục so sánh phần tử thứ hai với các phần tử từ thứ ba trở đi ... cứ tiếp tục như vậy cho đến phần tử thứ n-1.</para>
+        <para id="id6263365">Chương trình sẽ được chia thành các hàm Nhap (Nhập các số), SapXep (Sắp xếp) và InMang (In các số); các tham số hình thức của các hàm này là 1 mảng không chỉ định rõ số phần tử tối đa, nhưng ta cần có thêm số phần tử thực tế được sử dụng của mảng là bao nhiêu, đây là một giá trị nguyên.</para>
+        <para id="id6967206">#include&lt;conio.h&gt;</para>
+        <para id="id6967210">#include&lt;stdio.h&gt;</para>
+        <para id="id6967214">void Nhap(int a[],int N)</para>
+        <para id="id6967218">{</para>
+        <para id="id6967222">int i;</para>
+        <para id="id7502572">for(i=0; i&lt; N; i++)</para>
+        <para id="id7502577">{</para>
+        <para id="id7502582">printf("Phan tu thu %d: ",i);scanf("%d",&amp;a[i]);</para>
+        <para id="id7369605">}</para>
+        <para id="id7369610">}</para>
+        <para id="id7369615">void InMang(int a[], int N)</para>
+        <para id="id7369619">{</para>
+        <para id="id7369623">int i;</para>
+        <para id="id6520518">for (i=0; i&lt;N;i++)</para>
+        <para id="id6520524">printf("%d ",a[i]);</para>
+        <para id="id6520530">printf("\n");</para>
+        <para id="id6989908">}</para>
+        <para id="id6989912">void SapXep(int a[], int N)</para>
+        <para id="id6989916">{</para>
+        <para id="id6989920">int t,i;</para>
+        <para id="id7963174">for(i=0;i&lt;N-1;i++)</para>
+        <para id="id7963180">for(int j=i+1;j&lt;N;j++)</para>
+        <para id="id7963187">if (a[i]&gt;a[j])</para>
+        <para id="id6360129">{</para>
+        <para id="id6360136">t=a[i];</para>
+        <para id="id6360145">a[i]=a[j];</para>
+        <para id="id6825899">a[j]=t;</para>
+        <para id="id7861866">}</para>
+        <para id="id7861873">}</para>
+        <para id="id7861877">int main()</para>
+        <para id="id7861882">{</para>
+        <para id="id6177581">int b[20], N;</para>
+        <para id="id6177586">printf("So phan tu thuc te cua mang N= "); </para>
+        <para id="id6177592">scanf("%d",&amp;N);</para>
+        <para id="id6177596">Nhap(b,N);</para>
+        <para id="id7534474">printf("Mang vua nhap: ");</para>
+        <para id="id7534479">InMang(b,N);</para>
+        <para id="id7534491">SapXep(b,N); /* Gọi hàm sắp xếp*/</para>
+        <para id="id6989803">printf("Mang sau khi sap xep: ");</para>
+        <para id="id6989808">InMang(b,N);</para>
+        <para id="id6989813">getch();</para>
+        <para id="id7835540">return 0;</para>
+        <para id="id7835546">}</para>
+        <para id="id7835550">Kết quả chạy chương trình có thể là:</para>
+        <figure id="id7502238">
+          <media id="id5831806" alt=""><image src="../../media/graphics1-7df5.png" mime-type="image/png" height="123" width="316"/></media>
+        </figure>
+      </section>
+    </section>
+    <section id="id-679225970615">
+      <title>MẢNG NHIỀU CHIỀU</title>
+      <para id="id7861748">Mảng nhiều chiều là mảng có từ 2 chiều trở lên. Điều đó có nghĩa là mỗi phần tử của mảng là một mảng khác.</para>
+      <para id="id7861762">Người ta thường sử dụng mảng nhiều chiều để lưu các ma trận, các tọa độ 2 chiều, 3 chiều…</para>
+      <para id="id7450257">Phần dưới đây là các vấn đề liên quan đến mảng 2 chiều; các mảng 3, 4,… chiều thì tương tự (chỉ cần tổng quát hóa lên).</para>
+      <section id="id-596112177688">
+        <title>Khai báo</title>
+        <section id="id-555147557342">
+          <title>Khai báo mảng 2 chiều tường minh</title>
+          <para id="id6274659">Cú pháp:</para>
+          <para id="id6274663">&lt;Kiểu&gt; &lt;Tên mảng&gt;&lt;[Số phần tử chiều 1]&gt;&lt;[Số phần tử chiều 2]&gt;</para>
+          <para id="id7268576">Ví dụ: Người ta cần lưu trữ thông tin của một ma trận gồm các số thực. Lúc này ta có thể khai báo một mảng 2 chiều như sau:</para>
+          <para id="id7580450">float m[8][9]; /* Khai báo mảng 2 chiều có 8*9 phần tử là số thực*/</para>
+          <para id="id7201252">Trong trường hợp này, ta đã khai báo cho một ma trận có tối đa là 8 dòng, mỗi dòng có tối đa là 9 cột. Hình ảnh của ma trận này được cho trong hình 2:</para>
+          <table id="id7201266" summary="">
+            <tgroup cols="10">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <tbody>
+                <row>
+                  <entry>Dòng\Cột</entry>
+                  <entry>0</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry>5</entry>
+                  <entry>6</entry>
+                  <entry>7</entry>
+                  <entry>8</entry>
+                </row>
+                <row>
+                  <entry>0</entry>
+                  <entry>m[0][0]</entry>
+                  <entry>m[0][1]</entry>
+                  <entry>m[0][2]</entry>
+                  <entry>m[0][3]</entry>
+                  <entry>m[0][4]</entry>
+                  <entry>m[0][5]</entry>
+                  <entry>m[0][6]</entry>
+                  <entry>m[0][7]</entry>
+                  <entry>m[0][8]</entry>
+                </row>
+                <row>
+                  <entry>1</entry>
+                  <entry>m[1][0]</entry>
+                  <entry>m[1][1]</entry>
+                  <entry>m[1][2]</entry>
+                  <entry>m[1][3]</entry>
+                  <entry>m[1][4]</entry>
+                  <entry>m[1][5]</entry>
+                  <entry>m[1][6]</entry>
+                  <entry>m[1][7]</entry>
+                  <entry>m[1][8]</entry>
+                </row>
+                <row>
+                  <entry>2</entry>
+                  <entry>m[2][0]</entry>
+                  <entry>m[2][1]</entry>
+                  <entry>m[2][2]</entry>
+                  <entry>m[2][3]</entry>
+                  <entry>m[2][4]</entry>
+                  <entry>m[2][5]</entry>
+                  <entry>m[2][6]</entry>
+                  <entry>m[2][7]</entry>
+                  <entry>m[2][8]</entry>
+                </row>
+                <row>
+                  <entry>3</entry>
+                  <entry>m[3][0]</entry>
+                  <entry>m[3][1]</entry>
+                  <entry>m[3][2]</entry>
+                  <entry>m[3][3]</entry>
+                  <entry>m[3][4]</entry>
+                  <entry>m[3][5]</entry>
+                  <entry>m[3][6]</entry>
+                  <entry>m[3][7]</entry>
+                  <entry>m[3][8]</entry>
+                </row>
+                <row>
+                  <entry>4</entry>
+                  <entry>m[4][0]</entry>
+                  <entry>m[4][1]</entry>
+                  <entry>m[4][2]</entry>
+                  <entry>m[4][3]</entry>
+                  <entry>m[4][4]</entry>
+                  <entry>m[4][5]</entry>
+                  <entry>m[4][6]</entry>
+                  <entry>m[4][7]</entry>
+                  <entry>m[4][8]</entry>
+                </row>
+                <row>
+                  <entry>5</entry>
+                  <entry>m[5][0]</entry>
+                  <entry>m[5][1]</entry>
+                  <entry>m[5][2]</entry>
+                  <entry>m[5][3]</entry>
+                  <entry>m[5][4]</entry>
+                  <entry>m[5][5]</entry>
+                  <entry>m[5][6]</entry>
+                  <entry>m[5][7]</entry>
+                  <entry>m[5][8]</entry>
+                </row>
+                <row>
+                  <entry>6</entry>
+                  <entry>m[6][0]</entry>
+                  <entry>m[6][1]</entry>
+                  <entry>m[6][2]</entry>
+                  <entry>m[6][3]</entry>
+                  <entry>m[6][4]</entry>
+                  <entry>m[6][5]</entry>
+                  <entry>m[6][6]</entry>
+                  <entry>m[6][7]</entry>
+                  <entry>m[6][8]</entry>
+                </row>
+                <row>
+                  <entry>7</entry>
+                  <entry>m[7][0]</entry>
+                  <entry>m[7][1]</entry>
+                  <entry>m[7][2]</entry>
+                  <entry>m[7][3]</entry>
+                  <entry>m[7][4]</entry>
+                  <entry>m[7][5]</entry>
+                  <entry>m[7][6]</entry>
+                  <entry>m[7][7]</entry>
+                  <entry>m[7][8]</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id7534728">Hình 2: Ma trận được mô tả là 1 mảng 2 chiều</para>
+        </section>
+        <section id="id-051028292507">
+          <title>Khai báo mảng 2 chiều không tường minh</title>
+          <para id="id7287128">Để khai báo mảng 2 chiều không tường minh, ta vẫn phải chỉ ra số phần tử của chiều thứ hai (chiều cuối cùng).</para>
+          <para id="id7287134">Cú pháp: &lt;Kiểu&gt; &lt;Tên mảng&gt; &lt;[]&gt;&lt;[Số phần tử chiều 2]&gt;</para>
+          <para id="id7534732">Cách khai báo này cũng được áp dụng trong trường hợp vừa khai báo, vừa gán trị hay đặt mảng 2 chiều là tham số hình thức của hàm.</para>
+        </section>
+      </section>
+      <section id="id-0662659430822">
+        <title>Truy xuất từng phần tử của mảng 2 chiều</title>
+        <para id="id7436424">Ta có thể truy xuất một phần tử của mảng hai chiều bằng cách viết ra tên mảng theo sau là hai chỉ số đặt trong hai cặp dấu ngoặc vuông. Chẳng hạn ta viết m[2][3].</para>
+        <para id="id7297346">Với cách truy xuất theo cách này, Tên mảng[Chỉ số 1][Chỉ số 2] có thể coi là 1 biến có kiểu được chỉ ra trong khai báo biến mảng.</para>
+        <para id="id7759186">Ví dụ 1: Viết chương trình cho phép nhập 2 ma trận a, b có m dòng n cột, thực hiện phép toán cộng hai ma trận a,b và in ma trận kết quả lên màn hình.</para>
+        <para id="id6992042">Trong ví dụ này, ta sẽ sử dụng hàm để làm ngắn gọn hơn chương trình của ta. Ta sẽ viết các hàm: nhập 1 ma trận từ bàn phím, hiển thị ma trận lên màn hình, cộng 2 ma trận.</para>
+        <para id="id7873113">#include&lt;conio.h&gt;</para>
+        <para id="id7873117">#include&lt;stdio.h&gt;</para>
+        <para id="id7873121">void Nhap(int a[][10],int M,int N)</para>
+        <para id="id7873125">{</para>
+        <para id="id6992051">int i,j;</para>
+        <para id="id6964302">for(i=0;i&lt;M;i++)</para>
+        <para id="id6964308">for(j=0; j&lt;N; j++){</para>
+        <para id="id6964314">printf("Phan tu o dong %d cot %d: ",i,j);</para>
+        <para id="id6964322">scanf("%d",&amp;a[i][j]);</para>
+        <para id="id6966634">}</para>
+        <para id="id6966640">}</para>
+        <para id="id6966644">void InMaTran(int a[][10], int M, int N)</para>
+        <para id="id6966648">{</para>
+        <para id="id7156264">int i,j;</para>
+        <para id="id7156269">for(i=0;i&lt;M;i++){</para>
+        <para id="id7156275">for(j=0; j&lt; N; j++)</para>
+        <para id="id7156282">printf("%d",a[i][j]);</para>
+        <para id="id7323062">printf("\n");</para>
+        <para id="id7323075">}</para>
+        <para id="id7452379">}</para>
+        <para id="id7452384">/* Cong 2 ma tran A &amp; B ket qua la ma tran C*/</para>
+        <para id="id7452393">void CongMaTran(int a[][10],int b[][10],int M,int N,int c[][10]){</para>
+        <para id="id7452398">int i,j;</para>
+        <para id="id6266691">for(i=0;i&lt;M;i++)</para>
+        <para id="id6266696">for(j=0; j&lt;N; j++)</para>
+        <para id="id6266703">c[i][j]=a[i][j]+b[i][j];</para>
+        <para id="id7192888">}</para>
+        <para id="id7192892">int main()</para>
+        <para id="id7192897">{</para>
+        <para id="id7192901">int a[10][10], b[10][10], M, N;</para>
+        <para id="id7192906">int c[10][10];/* Ma tran tong*/</para>
+        <para id="id7405801">printf("So dong M= "); scanf("%d",&amp;M);</para>
+        <para id="id7405808">printf("So cot M= "); scanf("%d",&amp;N);</para>
+        <para id="id7405814">printf("Nhap ma tran A\n");</para>
+        <para id="id7894849">Nhap(a,M,N);</para>
+        <para id="id7894854">printf("Nhap ma tran B\n");</para>
+        <para id="id7894859">Nhap(b,M,N);</para>
+        <para id="id7894864">printf("Ma tran A: \n");</para>
+        <para id="id7894869">InMaTran(a,M,N);</para>
+        <para id="id7268526">printf("Ma tran B: \n");</para>
+        <para id="id7268531">InMaTran(b,M,N);</para>
+        <para id="id7268536">CongMaTran(a,b,M,N,c);</para>
+        <para id="id7268541">printf("Ma tran tong C:\n");</para>
+        <para id="id7370417">InMaTran(c,M,N);</para>
+        <para id="id7370422">getch();</para>
+        <para id="id7370427">return 0;</para>
+        <para id="id7370432">}</para>
+        <para id="id7370437">Ví dụ 2: Nhập vào một ma trận 2 chiều gồm các số thực, in ra tổng của các phần tử trên đường chéo chính của ma trận này.</para>
+        <para id="id7362108">Ta nhận thấy rằng giả sử ma trận a có M dòng, N cột thì các phần tử của đường chéo chính là các phần tử có dạng: a[i][i] với i 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ in } {}</m:annotation></m:semantics></m:math> [0…min(M,N)-1].</para>
+        <para id="id7316200">#include&lt;conio.h&gt;</para>
+        <para id="id7316205">#include&lt;stdio.h&gt;</para>
+        <para id="id6267852">int main()</para>
+        <para id="id6267856">{</para>
+        <para id="id6267861">float a[10][10], T=0;</para>
+        <para id="id6361195">int M, N, i,j, Min;</para>
+        <para id="id6361202">clrscr();</para>
+        <para id="id6361211">printf("Ma tran co bao nhieu dong? ");scanf("%d",&amp;M);</para>
+        <para id="id7240471">printf("Ma tran co bao nhieu cot? ");scanf("%d",&amp;N);</para>
+        <para id="id7240478">for(i=0;i&lt;M;i++)</para>
+        <para id="id7240483">for(j=0; j&lt;N; j++)</para>
+        <para id="id7240490">{</para>
+        <para id="id7159124">printf("Phan tu o dong %d cot %d: ",i,j);</para>
+        <para id="id7159131">scanf("%f",&amp;a[i][j]);</para>
+        <para id="id7159136">}</para>
+        <para id="id6264642">printf("Ma tran vua nhap: \n");</para>
+        <para id="id6264647">for(i=0;i&lt;M;i++)</para>
+        <para id="id7698231">{</para>
+        <para id="id7698236">for(j=0; j&lt; N; j++)</para>
+        <para id="id7698243">printf("%.2f",a[i][j]);</para>
+        <para id="id7698253">printf("\n");</para>
+        <para id="id7555779">}</para>
+        <para id="id7555784"/>
+        <para id="id7555788">Min=(M&gt;N) ? N: M; /* Tìm giá trị nhỏ nhất của M &amp; N*/</para>
+        <para id="id7209309">for(i=0;i&lt;Min;i++)</para>
+        <para id="id7209320">T=T+a[i][i];</para>
+        <para id="id6516145">printf("Tong cac phan tu o duong cheo chinh la: %f",T);</para>
+        <para id="id6516151">getch();</para>
+        <para id="id6516156">return 0;</para>
+        <para id="id6516162">}</para>
+      </section>
+    </section>
+    <section id="id-667366735009">
+      <title>BÀI TẬP</title>
+      <section id="id-277829283279">
+        <title>Mục đích yêu cầu</title>
+        <para id="id7268673">Làm quen với kiểu dữ liệu có cấu trúc trong C, kiểu mảng. Thực hiện các bài tập trong phần nội dung bằng cách kết hợp kiểu dữ liệu mảng, các kiểu dữ liệu đã học và các phần đã học trong các bài tập trước.</para>
+      </section>
+      <section id="id-807239875885">
+        <title>Nội dung</title>
+        <para id="id6966052">1. Viết chương trình nhập vào một dãy n số thực a[0], a[1],..., a[n-1], sắp xếp dãy số theo thứ tự từ lớn đến nhỏ. In dãy số sau khi sắp xếp.</para>
+        <para id="id6515924">2. Viết chương trình sắp xếp một mảng theo thứ tự tăng dần sau khi đã loại bỏ các phần tử trùng nhau.</para>
+        <para id="id6515932">3. Viết chương trình nhập vào một mảng, hãy xuất ra màn hình:</para>
+        <para id="id6991817">- Phần tử lớn nhất của mảng.</para>
+        <para id="id6991825">- Phần tử nhỏ nhất của mảng.</para>
+        <para id="id6991833">- Tính tổng của các phần tử trong mảng .</para>
+        <para id="id7339892">4. Viết chương trình nhập vào một dãy các số theo thứ tự tăng, nếu nhập sai quy cách thì yêu cầu nhập lại. In dãy số sau khi đã nhập xong. Nhập thêm một số mới và chèn số đó vào dãy đã có sao cho dãy vẫn đảm bảo thứ tự tăng. In lại dãy số để kiểm tra.</para>
+        <para id="id7339906">5. Viết chương trình nhập vào một ma trận (mảng hai chiều) các số nguyên, gồm m hàng, n cột. In ma trận đó lên màn hình. Nhập một số nguyên khác vào và xét xem có phần tử nào của ma trận trùng với số này không ? Ở vị trí nào ? Có bao nhiêu phần tử ?</para>
+        <para id="id6264659">6. Viết chương trình để chuyển đổi vị trí từ dòng thành cột của một ma trận (ma trận chuyển vị) vuông 4 hàng 4 cột. Sau đó viết cho ma trận tổng quát cấp m*n.</para>
+        <para id="id7171294">Ví dụ:</para>
+        <para id="id7171298">1 2 3 4  1 2 9 1</para>
+        <para id="id6261399">2 5 5 8  2 5 4 5</para>
+        <para id="id7180988">9 4 2 0  3 5 2 8</para>
+        <para id="id7820705">1 5 8 6  4 8 0 6</para>
+        <para id="id7240591">7. Viết chương trình nhập vào một mảng số tự nhiên. Hãy xuất ra màn hình:</para>
+        <para id="id7240598">- Dòng 1 : gồm các số lẻ, tổng cộng có bao nhiêu số lẻ.</para>
+        <para id="id7272460">- Dòng 2 : gồm các số chẵn, tổng cộng có bao nhiêu số chẵn.</para>
+        <para id="id7272470">- Dòng 3 : gồm các số nguyên tố.</para>
+        <para id="id7930948">- Dòng 4 : gồm các số không phải là số nguyên tố.</para>
+        <para id="id7930958">8. Viết chương trình tính tổng bình phương của các số âm trong một mảng các số nguyên.</para>
+        <para id="id7930966">9. Viết chương trình thực hiện việc đảo một mảng một chiều.</para>
+        <para id="id7209377">Ví dụ : 1 2 3 4 5 7 9 10 đảo thành 10 9 7 5 4 3 2 1 .</para>
+        <para id="id7620296">10. Viết chương trình nhập vào hai ma trận A và B có cấp m, n. In hai ma trận lên màn hình. Tổng hai ma trận A và B là ma trận C được tính bởi công thức:</para>
+        <para id="id6360618"> cij= aij +bij ( i=0,1,2,...m-1; j=0,1,2...n-1)</para>
+        <para id="id7545599">Tính ma trận tổng C và in kết quả lên màn hình.</para>
+        <para id="id7545605">11. Viết chương trình nhập vào hai ma trận A có cấp m, k và B có cấp k, n. In hai ma trận lên màn hình. Tích hai ma trận A và B là ma trận C được tính bởi công thức:</para>
+        <para id="id7545619">cij= ai1*b1j + ai2 *b2j + ai3 *b3j + ... + aik *bkj (i=0,1,2,...m-1;j=0,1,2...n-1)</para>
+        <para id="id6262924">Tính ma trận tích C và in kết quả lên màn hình.</para>
+        <para id="id6262930">12. Xét ma trận A vuông cấp n, các phần tử a[i, i] ( i= 1 ... n ) được gọi là đường chéo chính của ma trận vuông A. Ma trận vuông A được gọi là ma trận tam giác nếu tất cả các phần tử dưới đường chéo chính đều bằng 0. Định thức của ma trận tam giác bằng tích các phần tử trên đường chéo chính.</para>
+        <para id="id7579482">Ta có thể chuyển một ma trận vuông bất kỳ về ma trận tam giác bằng thuật toán:</para>
+        <para id="id7579489">- Xét cột i (i =0,1...n-2)</para>
+        <para id="id6261209">- Trong cột i xét các phần tử a[k,i] ( k=i+1...n-1)</para>
+        <para id="id6261218">+ Nếu a[k,i]=0 thì tăng k lên xét phần tử khác</para>
+        <para id="id6261224">+ Nếu a[k,i] &lt;&gt; 0 thì làm như sau:</para>
+        <para id="id7937170">Nhân toàn bộ hàng k với - a[i,i]/a[k,i]</para>
+        <para id="id7937179">Lấy hàng i cộng vào hàng k sau khi thực hiện phép nhân trên.</para>
+        <para id="id7937186">Đổi chỗ hai hàng i và k cho nhau</para>
+        <para id="id7906091">Nhân toàn bộ hàng k với -1 sau khi đã đổi chỗ với hàng i</para>
+        <para id="id7906101">Tăng k lên xét phần tử khác.</para>
+        <para id="id7906106">Viết chương trình tính định thức cấp n thông qua các bước nhập ma trận, in ma trận, đưa ma trận về dạng tam giác, in ma trận tam giác, in kết quả tính định thức.</para>
+        <para id="id7805953">13. Viết chương trình thực hiện việc trộn hai dãy có thứ tự thành một dãy có thứ tự. Yêu cầu không được trộn chung rồi mới sắp thứ tự. Khi trộn phải tận dụng được tính chất đã sắp của hai dãy con.</para>
+      </section>
+    </section>
+  </content>
+</document>

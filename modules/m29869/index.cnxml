@@ -1,0 +1,410 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kỹ thuật khai thác tinh dầu</title>
+  <metadata>
+  <md:content-id>m29869</md:content-id><md:title>Kỹ thuật khai thác tinh dầu</md:title>
+  <md:abstract>Phần này trình bày các phương pháp khai thác tinh dầu</md:abstract>
+  <md:uuid>ad4f800b-7ca0-4adb-b7de-252362fa1c7c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id12691270">Các phương pháp khai thác tinh dầu:</para>
+    <para id="id10516924">Tùy thuộc từng loại nguyên liệu và trạng thái của tinh dầu trong nguyên liệu (tự do hoặc kết hợp) mà người ta dùng các phương pháp khác nhau để tách chúng.</para>
+    <para id="id10516937">Các phương pháp tách tinh dầu cần phải đạt được những yêu cầu cơ bản như sau:</para>
+    <para id="id10516946">* Giữ cho tinh dầu thu được có mùi vị tự nhiên ban đầu,</para>
+    <para id="id10516953">* Qui trình chế biến phải phù hợp, thuận lợi và nhanh chóng,</para>
+    <para id="id10516960">* Phải tách được triệt để tinh dầu trong nguyên liệu, tổn thất tinh dầu trong quá trình chế biến và hàm lượng tinh dầu trong nguyên liệu sau khi chế biến (bã) càng thấp càng tốt,</para>
+    <para id="id10537425">* Chi phí đầu tư vào sản xuất là ít nhất.</para>
+    <para id="id10537432">Dựa vào các yêu cầu đã nêu trên, người ta thường dùng những phương pháp khai thác tinh dầu sau:</para>
+    <para id="id10537442">* Phương pháp hóa lý: chưng cất và trích ly ( trích ly có thể dùng dung môi bay hơi hoặc dung môi không bay hơi)</para>
+    <para id="id10537451">* Phương pháp cơ học: dùng các quá trình cơ học để khai thác tinh dầu như ép, bào nạo. </para>
+    <para id="id11940417">* Phương pháp kết hợp: khai thác tinh dầu bằng cách kết hợp giữa quá trình hóa lý và quá trình cơ học, hoặc sinh hóa (lên men) và cơ học, hoặc sinh hóa và hóa lý. Ví dụ, trong quả vani, tinh dầu ở dạng liên kết glucozit nên dùng enzym để thủy phân, phá hủy liên kết này rồi sau đó dùng phương pháp chưng cất (hóa lý) để lấy tinh dầu.</para>
+    <section id="id-708098260429">
+      <title>Tách tinh dầu bằng phương pháp chưng cất (hóa lý):</title>
+      <para id="id11940441">a. Những hiểu biết cơ bản về quá trình chưng cất tinh dầu: Tinh dầu là một hỗn hợp gồm nhiều cấu tử tan lẫn vào nhau. Trong quá trình chưng cất, cùng với sự thay đổi thành phần của hỗn hợp lỏng có thể làm thay đổi thành phần của hỗn hợp hơi. Trong điều kiện áp suất không đổi, dung dịch lỏng mà ta thu được bằng cách ngưng tụ hỗn hợp hơi bay ra sẽ có thành phần cấu tử dễ bay hơi cao hơn so với chất lỏng ban đầu, nếu tiếp tục chưng cất thì càng ngày thành phần dễ bay hơi trong chất lỏng ban đầu càng ít và trong chất lỏng sau ngưng tụ càng nhiều. Nếu ngưng tụ theo thời gian thì ta có thể thay đổi thành phần của tinh dầu sau ngưng tụ so với thành phần của tinh dầu có trong nguyên liệu. Việc làm này nhằm mục đích nâng cao chất lượng tinh dầu. Ví dụ, yêu cầu của tinh dầu sả là hàm ượng xitronenlal phải &gt;35% nhưng tinh dầu của ta thường chỉ đạt 32 %, do đó có thể dùng phương pháp chưng cất ngưng tụ theo thời gian để nâng cao hàm lượng xitronenlal trong tinh dầu sả.</para>
+      <para id="id11940446">b. Các dạng chưng cất tinh dầu: có 3 dạng chưng cất tinh dầu như sau:</para>
+      <para id="id10538379">* Chưng cất với nước: Nguyên liệu và nước cùng cho vào một thiết bị. Khi đun sôi, hơi nước bay ra sẽ cuốn theo tinh dầu, ngưng tụ hơi bay ra sẽ thu được hỗn hợp gồm nước và tinh dầu, hai thành phần này không tan vào nhau nên dễ dàng tách ra khỏi nhau.</para>
+      <para id="id10538383">Phương pháp này đơn giản, thiết bị rẻ tiền và dễ chế tạo, phù hợp với những cơ sở sản xuất nhỏ, vốn đầu tư ít. Tuy nhiên, phương pháp này còn một vài nhược điểm như hiệu suất thấp, chất lượng tinh dầu không cao do nguyên liệu tiếp xúc trực tiếp với thiết bị nên dễ bị cháy khét, khó điều chỉnh các thông số kỹ thuật như tốc độ và nhiệt độ chưng cất.</para>
+      <para id="id12668546">* Chưng cất bằng hơi nước không có nồi hơi riêng: Nguyên liệu và nước cùng cho vào một thiết bị nhưng cách nhau bởi một vỉ nồi. Khi đun sôi, hơi nước bốc lên qua khối nguyên liệu kéo theo tinh dầu và đi ra thiết bị ngưng tụ. Để nguyên liệu khỏi rơi vào phần có nước ta có thể lót trên vỉ 1 hay nhiều lớp bao tải tùy theo từng loại nguyên liệu. Phương pháp nay phù hợp với những cơ sở sản xuất có qui mô trung bình.</para>
+      <para id="id10579647">So với phương pháp trên, phương pháp này có ưu điểm hơn, nguyên liệu ít bị cháy khét vì không tiếp xúc trực tiếp với đáy thiết bị, các nhược điểm khác vẫn chưa khắc phục được. Phương pháp này thích hợp cho những loại nguyên liệu không chịu được nhiệt độ cao.</para>
+      <para id="id10579663">* Chưng cất bằng hơi nước có nồi hơi riêng: Phương pháp này phù hợp với những cơ sở sản xuất lớn, hơi nước được tạo ra từ một nồi hơi riêng và được dẫn vào các thiết bị chưng cất.</para>
+      <para id="id10579676">Phương pháp này cùng một lúc có thể phục vụ được cho nhiều thiết bị chưng cất, điều kiện làm việc của công nhân nhẹ nhàng hơn, dễ cơ khí hóa và tự động hóa các công đoạn sản xuất, khống chế tốt hơn các thông số công nghệ, rút ngắn được thời gian sản xuất. Ngoài ra, phương pháp này đã khắc phục được tình trạng nguyên liệu bị khê, khét và nếu theo yêu cầu của công nghệ thì có thể dùng hơi quá nhiệt, hơi có áp suất cao để chưng cất. Tuy nhiên, đối với một số tinh dầu trong điều kiện chưng cất ở nhiệt độ và áp suất cao sẽ bị phân hủy làm giảm chất lượng. Hơn nữa, các thiết bị sử dụng trong phương pháp này khá phức tạp và đắt tiền.</para>
+      <para id="id10579681">c. Những ưu nhược điểm chung của phương pháp chưng cất:</para>
+      <para id="id12855610">* Ưu điểm:</para>
+      <para id="id12855613">- Thiết bị khá gọn gàng, dễ chế tạo, qui trình sản xuất đơn giản,</para>
+      <para id="id11847318">- Trong quá trình chưng cất, có thể phân chia các cấu tử trong hỗn hợp bằng cách ngưng tụ từng phần theo thời gian,</para>
+      <para id="id11847329">- Thời gian chưng cất tương đối nhanh, nếu thực hiện gián đoạn chỉ cần 5-10 giờ, nếu liên tục thì 30 phút đến 1 giờ,</para>
+      <para id="id11847340">- Có thể tiến hành chưng cất với các cấu tử tinh dầu chịu được nhiệt độ cao.</para>
+      <para id="id12640983">* Nhược điểm:</para>
+      <para id="id12640988">- Không áp dụng phương pháp chưng cất vào những nguyên liệu có hàm lượng tinh dầu thấp vì thời gian chưng cất sẽ kéo dài, tốn rất nhiều hơi và nước ngưng tụ,</para>
+      <para id="id12641000">- Tinh dầu thu được có thể bị giảm chất lượng nếu có chứa các cấu tử dễ bị thủy phân,</para>
+      <para id="id12641010">- Không có khả năng tách các thành phần khó bay hơi hoặc không bay hơi trong thành phần của nguyên liệu ban đầu mà những thành phần này rất cần thiết vì chúng có tính chất định hương rất cao như sáp, nhựa thơm...</para>
+      <para id="id12641015">- Hàm lương tinh dầu còn lại trong nưóc chưng (nước sau phân ly) tương đối lớn,</para>
+      <para id="id12518045">- Tiêu tốn một lượng nước khá lớn để làm nhưng tụ hỗn hợp hơi.</para>
+      <para id="id12518054">c. Qui trình công nghệ chưng cất tinh dầu: Tùy theo từng loại nguyên liệu mà qui trình chưng cất có những điểm khác nhau nhất định. Nhìn chung, qui trình chưng cất tinh dầu phải có những công đoạn cơ bản sau:</para>
+      <para id="id12641021">NGUYÊN LIỆU</para>
+      <para id="id12044808">XỬ LÝ</para>
+      <para id="id12044812">CHƯNG CẤT Hơi</para>
+      <para id="id10516242">HỖN HỢP HƠI</para>
+      <para id="id10516253"/>
+      <para id="id10516259"/>
+      <para id="id10516265">NGƯNGTỤ Nước</para>
+      <para id="id12637894"/>
+      <para id="id12637900"/>
+      <para id="id12637907">TINH DẦU + NƯỚC</para>
+      <para id="id12637918"/>
+      <para id="id12637924"/>
+      <para id="id10517898">PHÂN LY</para>
+      <para id="id10517909"/>
+      <para id="id10517915"/>
+      <para id="id10517921">NƯỚC CHƯNG TINH DẦU THÔ</para>
+      <para id="id10564002"/>
+      <para id="id10564008"/>
+      <para id="id10564014">Nước thải XỬ LÝ TINH CHẾ</para>
+      <para id="id10564034"/>
+      <para id="id12517673"/>
+      <para id="id12517678">TD LOẠI II TD THÀNH PHẨM</para>
+      <para id="id12517694"/>
+      <para id="id12517700">Trước khi sản xuất cần kiểm tra thật cẩn thận thiết bị chưng cất, chú ý xem nắp, vòi voi có kín không, phần ngưng tụ có bị tắc, rò rỉ không, sau đó tiến hành làm vệ sinh thiết bị.</para>
+      <para id="id12517708">Ba công đoạn cơ bản của quá trình chưng cất tinh dầu (chưng cất gián đoạn) gồm: nạp liệu, chưng cất, tháo bả.</para>
+      <para id="id12643547">* Nạp liệu: Nguyên liệu từ kho bảo quản được nạp vào thiết bị, có thể làm ẩm nguyên liệu trước khi nạp vào thiết bị để thuận lợi cho quá trình chưng cất. Việc nạp liệu có thể thực hiện bằng thủ công hoặc cơ giới, có thể nạp trực tiếp vào thiết bị hoặc nạp gián tiếp qua một giỏ chứa rồi cho vào thiết bị bằng tời hoặc cẩu. Nguyên liệu nạp vào thiết bị không được chặt quá làm cho hơi khó phân phối đều trong toàn bộ khối nguyên liệu và không được quá lỏng, quá xốp sẽ làm cho hơi dễ dàng theo những chỗ rỗng đi ra mà không tiếp xúc với toàn khối nguyên liệu. Đối với nguyên liệu lá, cỏ khi cho vào thiết bị có thể nén chặt, trước khi nén nên xổ tung để tránh hiện tượng rỗng cục bộ. Nạp liệu xong đóng chặt mặt bích nối thiết bị với nắp, nên vặn chặt theo nguyên tắc đối nhau để nắp khỏi chênh.</para>
+      <para id="id12643554">* Chưng cất: Khi bắt đầu chưng cất, mở van hơi cho hơi vào thiết bị, lúc đầu mở từ từ để đuổi không khí trong thiết bị và làm cho hơi phân phối đều trong toàn bộ khối nguyên liệu. Ngoài ra, mở từ từ van hơi để nguyên liệu không bị cuốn theo hơi gây tắc ống dẫn hỗn hợp hơi.</para>
+      <para id="id12643561">Trong quá trình chưng cất, cần chú ý điều chỉnh nhiệt độ dịch ngưng sao cho nằm trong khoảng 30-400C (bằng cách điều chỉnh tốc độ nước làm lạnh) vì nếu dịch ngưng quá nóng sẽ làm tăng độ hòa tan của tinh dầu vào nước và làm bay hơi tinh dầu. Để kiểm tra quá trình chưng cất kết thúc chưa người ta có thể dùng một tấm kính hứng một ít dịch ngưng, nếu thấy trên tấm kính còn váng dầu thì quá chưng cất chưa kết thúc.</para>
+      <para id="id10563888">* Tháo bả: Tháo nắp thiết bị, tháo vỉ trên rồi dùng tời kéo giỏ chứa bã ra, kiểm tra và châm thêm nước nếu cần thiết (nước châm thường là nước sau khi phân ly tinh dầu) rồi cất mẻ khác.</para>
+      <para id="id10563896">Hỗn hợp tinh dầu và nước được cho vào thiết bị phân ly. Sau phân ly ta được tinh dầu thô và nước chưng. Tinh dầu thô được xử lý để được tinh dầu thành phẩm, nước chưng cho ra bể tiếp tục phân ly để thu tinh dầu loại II</para>
+      <para id="id12072894">d. Hệ thống thiết bị chưng cất tinh dầu: Gồm các bộ phận sau: thiết bị chưng cất, bộ phận tạo nhiệt cho TBCC, thiết bị ngưng tụ, thiết bị phân ly.</para>
+      <para id="id12072909">Hệ thống thiết bị chưng cất phải đảm bả́o sao cho quá trình chưng cất được tiến hành nhanh chóng và thuận lợi, hỗn hợp hơi bay ra phải đảm bảo chứa nhiều tinh dầu, vì thế hệ thống phải có cấu tạo sao cho để hơi nước tiếp xúc đều trong toàn bộ khối nguyên liệu. Thiết bị phải có cấu tạo sao cho việc thao tác được dễ dàng và tốn ít lao động. Trong thực tế sản xuất, người ta thường dùng thiết bị chưng cất có dạng hình trụ, tỉ lệ giữa đường kính và chiều cao thiết bị (D/H)̣ phụ thuộc vào loại nguyên liệu. Cụ thể như sau:</para>
+      <para id="id12346157">- D/H = 1  1,7 : Đối với loại nguyên liệu lá, cành, thân nhỏ, hoa,</para>
+      <para id="id12642159">- D/H = 1  2: Đối với nguyên liệu hạt.</para>
+      <para id="id10444880">Trong công nghệ chưng cất tinh dầu, các thiết bị chưng cất thường có các dạng sau:</para>
+      <para id="id10444892">
+        <media id="id13625388" alt=""><image src="../../media/graphics1-5d91.png" mime-type="image/png" height="189" width="504"/></media>
+      </para>
+      <para id="id11983978"/>
+      <para id="id11983984">IIIIIIIVLoại I : Nguyên liệu được phân bố đều, hơi ra tập trung nhưng khó cho nguyên liệu vào,</para>
+      <para id="id12030252">Loại II: Không phổ biến, thường dùng để chưng cất hoa hồng (do tạo bọt nên phải có chiều cao), nguyên liệu cho vào dễ dàng nhưng diện tích đốt bé (nếu đốt ngoài trực tiếp),</para>
+      <para id="id12030268">Loại III: Tiện lợi khi chưng cất với nước vì diện tích sôi lớn nhưng năng suất không lớn lắm,</para>
+      <para id="id12030281">Loại IV: Dùng phổ biến nhất, có khả năng nâng cao năng suất thiết bị bằng cách kéo dài thiết bị, mở rộng dung tích dễ dàng.</para>
+      <para id="id11012820">Thường thì thể tích của thiết bị chưng cất khoảng 1,5  15 m3. Tuy nhiên, nếu thể tích thiết bị lớn quá thì việc nạp liệu và tháo bả phải được cơ giới hóa để tiết kiệm thời gian. Ở nước ta, hiện nay các thiết bị chưng cất có thể tích &lt; 3 m3 khối, do đó việc cung cấp nhiệt và vận hành khá dễ dàng.</para>
+      <para id="id10565542">Thiết bị chưng cất thường có các bộ phận sau:</para>
+      <para id="id10565553">Nắp: có thể là hình chóp (I), chỏm cầu (II) hoặc elip</para>
+      <para id="id11969761">
+        <media id="id5010575" alt=""><image src="../../media/graphics2-0e37.png" mime-type="image/png" height="144" width="505"/></media>
+      </para>
+      <para id="id11969791"/>
+      <para id="id12643455">Nắp phải có cấu tạo sao cho hơi thoát ra được dễ dàng và nhanh chóng. Nếu hỗn hợp hơi nằm lâu trong thiết bị sẽ sinh ra hiện tượng quá nhiệt làm tinh dầu giảm chất lượng. Ngoài ra, nắp phải đảm bảo kín khi ghép với thân thiết bị. Giữa nắp và thân thiết bị có thể vặn chặt bằng bu lông có đệm. Tuy nhiên, cũng phải tốn thời gian để vặn khi tháo dỡ. Trong điều kiện chưng cất ở áp suất dư 20-30 mmHg thì người ta thường dùng van nước (III) là thích hợp hơn.</para>
+      <para id="id12643483">Cổ nồi, vòi voi: Cổ nồi và vòi voi có thể là hai bộ phận riêng biệt hay chung, cổ nồi có hình dáng sao cho hướng hỗn hợp hơi ra nhanh. Đối với những loại nguyên liệu tạo bọt hoặc bụi trong khi chưng cất thì cổ nồi phải có bộ phận thay đổi tốc hơi và phải có thêm lưới chắn bụi. Các loại cổ nồi thường có hình dáng sau:</para>
+      <para id="id12643491">
+        <media id="id10411363" alt=""><image src="../../media/graphics3-bc3d.png" mime-type="image/png" height="118" width="599"/></media>
+      </para>
+      <para id="id11868591">Chiều dài của vòi voi thay đổi từ 1,5-3 m, nghiêng về phía thiết bị ngưng tụ </para>
+      <para id="id12872745">với độ dốc 1-3 độ, đường kính nhỏ dần để hỗn hợp hơi thoát ra dễ dàng. Chiều dài của vòi voi phải thích hợp, nếu ngắn quá sẽ tạo áp suất dư trong thiết bị, dài quá sẽ có hiện tượng ngưng tụ giữa chừng, hơi thoát ra chậm, ảnh hưởng đến tốc độ chưng cất và giảm chất lượng tinh dầu.</para>
+      <para id="id12872762">Đáy nồi: Có cấu tạo giống nắp nồi, đáy nồi phải có cấu tạo sao cho việc tháo nước ngưng tụ được dễ dàng (nếu chưng cất gián tiếp). Trong trường hợp chưng cất trực tiếp thì đáy nồi phải có bộ phận phun hơi.</para>
+      <para id="id12872769">
+        <media id="id13775819" alt=""><image src="../../media/graphics4-e8b1.png" mime-type="image/png" height="138" width="537"/></media>
+      </para>
+      <para id="id10580416"/>
+      <para id="id10580422">Nếu chưng cất với hơi nước mà không có nồi hơi riêng thì đáy nồi là bộ phận đốt nóng tạo hơi, do đó đáy nồi phải có cấu tạo sao cho diện tích truyền nhiệt lớn nhất.</para>
+      <para id="id10515436"/>
+      <para id="id10515442">* Vỉ nồi: Để đỡ khối nguyên liệu, giữ cho nguyên liệu khỏi rơi xuống đáy nồi làm tắc ống dẫn hơi, chiều dày của vỉ nồi từ 8  10 mm, mặt vỉ được đột hoặc khoan lổ hoặc có thể được làm bằng những thanh sắt đan. Thường thì tiết diện các lổ vỉ bằng 1/2 diện tích của bề mặt vỉ.</para>
+      <para id="id10512529">* Ống phân phối hơi: Ống phân phối hơi thường có nhiều dạng khác nhau, có thể hình tròn, xoắn ốc hay chữ thập. Các lổ phân phối hơi bố trí so le thành 2 hàng hướng về phía đáy nồi cất để cho hơi phân phối đều và lổ khỏi bị tắc do nguyên liệu rơi vào. Tổng tiết diện các lổ phân phối hơi bằng 2 lần tiết diện ống phân phối hơi, tiết diện của ống phân phối hơi lấy bằng tiết diện của ống dẫn hơi vào thiết bị và được xác định theo lượng hơi nước cần thiết dùng để chưng cất trong 1 giờ. Tốc độ hơi ở đây thường là 20m/s.</para>
+      <para id="id10512536"/>
+      <para id="id10512542">Vật liệu làm nồi cất ảnh hưởng khá lớn đến chất lượng tinh dầu thành phẩm, nhất là về màu sắc, một số muối kim loại tác dụng với tinh dầu sẽ cho màu khác với màu sắc tự nhiên của tinh dầu. Do đó vật liệu làm nồi cất phải không tác dụng hóa học với tinh dầu nhất là ở các bộ phận tiếp xúc trực tiếp với tinh dầu như cổ nồi, vòi voi..các bộ phận này phải được chế tạo bằng thép không rỉ hoặc sắt tráng men, các bộ phận khác (thân, đáy..) có thể làm bằng thép CT3.</para>
+      <para id="id10512551">Ngoài ra, trong quá trình chưng cất cũng cần phải chú ý một số điểm như sau:</para>
+      <para id="id10532760">- Tinh dầu dễ hấp thụ mùi lạ nên thiết bị chưng cất phải được làm vệ sinh sạch sẽ, đặc biệt khi thay đổi nguyên liệu cần phải làm vệ sinh TB thật kỹ lưỡng để không còn mùi của nguyên liệu trước, thường thì dùng hơi để xông vào TB để đuổi hết mùi lạ. Tinh dầu chứa các axit hữu cơ sẽ gây ăn mòn TB, do đó khi ngừng sản xuất phải tháo hết nước ngưng tụ và làm khô thiết bị,</para>
+      <para id="id12857950">- Thiết bị phải được cách nhiệt tốt để tiết kiệm năng lượng.</para>
+      <para id="id9652258">Thiết bị ngưng tụ: Hỗn hợp hơi tinh dầu và nước từ thiết bị chưng cất qua vòi voi vào thiết bị ngưng tụ, ở đây hỗn hợp hơi sẽ truyền ẩn nhiệt bốc hơi cho nước lạnh và ngưng tụ thành nước. Thiết bị ngưng tụ thực hiện hai nhiêm vụ: ngưng tụ hỗn hợp hơi thành lỏng và hạ nhiệt độ hỗn hợp lỏng vừa ngưng xong đến nhiệt độ yêu cầu. Hai quá trình này thường không có ranh giới rõ rệt nhưng để tiện cho việc tính toán ta xem hai quá trình này nối tiếp nhau. Theo thực tế sản xuất, người ta rút ra những số liệu thực nghiệm sau:</para>
+      <para id="id9652290">- 1 m3 thế tích của thiết bị chưng cất cần 2  2,5 m2 diện tích làm lạnh,</para>
+      <para id="id12558086">- 1 m2 diện tích làm lạnh sẽ ngưng tụ được 25 lít hỗn hợp TD + nước trong 1 giờ,</para>
+      <para id="id12558105">- 1 lít hỗn hợp TD + nước ngưng tụ được cần 10  28 lít nước dùng làm lạnh (tính nhiệt độ nước làm lạnh 10  150C)</para>
+      <para id="id10384100">Trong sản xuất tinh dầu, người ta thường dùng các loại TB ngưng tụ kiểu ống xoắn ruột gà, ống chùm, TB ngưng tụ loại đĩa.</para>
+      <para id="id10384114">Thiết bị truyền nhiệt loại đĩa có cấu tạo như sau:</para>
+      <para id="id10514692">Các đĩa được thường được chế tạo bằng đồng lá </para>
+      <para id="id12519951">hay nhôm, cách tính toán tương tự như đã học trong QTTB</para>
+      <para id="id12519960">Cần chú ý khi chọn nhiệt độ nước làm lạnh nên chọn nhiệt</para>
+      <para id="id12519971">độ nước ở mùa nóng nhất. Hỗn hợp lỏng sau ngưng tụ phải</para>
+      <para id="id12828731">có nhiệt độ không lớn hơn 400C, nếu lớn hơn nhiệt độ </para>
+      <para id="id12640802">này thì khả năng hòa tan tinh dầu trong nước lớn, nếu nhiệt</para>
+      <para id="id12640812">độ hỗn hợp quá thấp thì sẽ tốn nước làm nguội đồng thời</para>
+      <para id="id12640831">một số tinh dầu sẽ bị đông đặc gây tắc ống truyền nhiệt, do đó nên chọn trong khoảng 35  400C.</para>
+      <para id="id12557738">Khi làm việc với thiết bị ngưng tụ cũng cần phải tuân thu ̉theo những chế độ về vệ sinh và bảo dưỡng TB như đối với TB chưng cất. Ngoài ra, nước làm nguội sau khi ra khỏi thiết bị ngưng tụ giảm độ cứng nên cho về nồi hơi để tiết kiệm nước.</para>
+      <para id="id12828749">Thiết bị phân ly: Thiết bị này dùng để phân tinh dầu và nước thành từng lớp riêng biệt, tùy thuộc vào khối lượng riêng của tinh dầu lớn hay nhỏ hơn so với nước mà tinh dầu sẽ được lấy ra ở phần trên hay phần dưới của thiết bị phân ly. Người ta thường dùng các thiết bị phân ly như sau:</para>
+      <para id="id10562114">
+        <media id="id10713918" alt=""><image src="../../media/graphics5-c886.png" mime-type="image/png" height="219" width="596"/></media>
+      </para>
+      <para id="id12345582"/>
+      <para id="id12345588">IIIIIIII: TBPL tinh dầu nhẹ hơn nước</para>
+      <para id="id12484653">II: TBPL tinh dầu nặng hơn nước</para>
+      <para id="id12484662">III: TBPL có nhiều ngăn</para>
+      <para id="id12484670">Thể tích của thiết bị phân ly thường chọn bằng 3  10% thể tích của thiết bị chưng cất. Tỉ lệ giữa chiều cao của thiết bị phân ly với đường kính của thiết bị chưng cất thường là 1/2. Ống tháo tinh dầu và nước cần bố trí sao cho tinh dầu và nước chảy thành dòng riêng biệt (thường theo kinh nghiệm, tùy thuộc vào hàm lượng tinh dầu trong nguyên liệu). </para>
+      <para id="id10232654">Khi tính toán, nếu thấy thể tích của thiết bị phân ly lớn hơn 80 lít thì nên dùng loại thiết bị phân ly có nhiều ngăn hoặc nhiều thiết bị phân ly để quá trình phân ly được thuận tiện hơn.</para>
+      <para id="id10232670">e. Xử lý tinh dầu thô sau khi chưng cất: Tinh dầu ra khỏi thiết bị phân ly là tinh dầu thô, còn chứa nhiều tạp chất như nước, một số các hợp chất hữu cơ như chất màu, nhựa, sáp hòa tan vào nên để nâng cao chất lượng tinh dầu và tạo điều kiện thuận lợi trong quá trình bảo quản tinh dầu phải tiến hành xử lý tinh dầu, quá trình này gồm các công đoạn sau:</para>
+      <para id="id12668211">- Lắng: Mục đích của quá trình này là tách bớt các tạp chất vô cơ, hữu cơ và một số tạp chất khác lẫn vào tinh dầu. Thời gian lắng 24  48 giờ trong các thiết bị lắng có đáy hình côn</para>
+      <para id="id12668238"/>
+      <para id="id12346198"/>
+      <para id="id12346204">TD thô </para>
+      <para id="id12346221"/>
+      <para id="id12590837"/>
+      <para id="id12590851"> TD sau lắng</para>
+      <para id="id11971575"/>
+      <para id="id11971584"/>
+      <para id="id11971593"/>
+      <para id="id10584047">Tạp chất</para>
+      <para id="id10584062"/>
+      <para id="id10584068"/>
+      <para id="id10584075">- Lọc: Mục đích của quá trình lọc cũng để tách các tạp chất vô cơ, hữu cơ có kích thước nhỏ, thường dùng thiết bị lọc khung bản để thực hiện quá trình lọc.</para>
+      <list id="id10591273" list-type="bulleted">
+        <item>Sấy khô nước: Sau khi lắng lọc xong, trong tinh dầu vẫn còn lại một lượng nước ở dạng phân tán hoặc hòa tan, vì vậy cần phải sấy khô nước trong tinh dầu. Người ta thường dùng Natri sunphat khan với hàm lượng 2,5  5,5% tùy theo hàm lượng nước có trong tinh dầu. Để thực hiện việc sấy khô nước trong tinh dầu có thể dùng phương pháp gián đoạn hoặc liên tục.</item>
+      </list>
+      <para id="id10535946"/>
+      <para id="id10535952"/>
+      <para id="id10535958"/>
+      <para id="id10537166"/>
+      <para id="id11586955"/>
+      <para id="id11586964"/>
+      <para id="id11586970"/>
+      <para id="id11586976"/>
+      <para id="id11586887"/>
+      <para id="id11586893"/>
+      <para id="id11586899"/>
+      <para id="id11586905">(I)  (II) </para>
+      <para id="id11586928"/>
+      <para id="id12636687">I: Thiết bị làm việc gián đoạn, sau khi làm khô nước, đem lọc để tách Na2SO4.</para>
+      <para id="id12636716">II: Thiết bị làm việc liên tục, Na2SO4 nằm giữa 2 lớp lưới.</para>
+      <para id="id10457272">Sau khi tách nước xong, Na2SO4 được đem đi sấy khô để sử dụng lại.</para>
+      <para id="id10516044">Tinh dầu sau khi lắng lọc và sấy khô nếu có màu trong sáng thì nhập kho bảo quản, nếu có màu sẩm, xấu thì dùng than hay đất hoạt tính để hấp phụ màu. Tùy thuộc vào cường độ màu mà có thể dùng lượng than từ 1  2 %.</para>
+      <para id="id10516073"/>
+    </section>
+    <section id="id-315565313167">
+      <title>Tách tinh dầu bằng phương pháp trích ly</title>
+      <para id="id10563965">a. Mở đầu: Trích ly là dùng những dung môi hữu cơ hòa tan các chất khác, sau khi hòa tan, ta được hỗn hợp gồm dung môi và chất cần tách, đem hỗn hợp này tách dung môi ta sẽ thu được chất cần thiết. Cơ sở lý thuyết của quá trình trích ly là dựa vào sự khác nhau về hằng số điện môi của dung môi và chất cần trích ly. Những chất có hằng số điện môi gần nhau sẽ dễ hòa tan vào nhau. Tinh dầu có hằng số điện môi dao động từ 2  5 và các dung môi hữu cơ có hằng số điện môi dao động từ 1,5  2. Trong công nghiệp sản xuất tinh dầu, phương pháp này dùng để tách tinh dầu trong các loại hoa (hàm lượng tinh dầu ít). Phương pháp này có thể tiến hành ở nhiệt độ thường (khi trích ly) và có thể lấy được những thành phần quí như sáp, nhựa thơm trong nguyên liệu mà phương pháp chưng cất không thể tách được. Vì thế, chất lượng của tinh dầu sản xuất bằng phương pháp này khá cao.</para>
+      <para id="id12642204">Bản chất của quá trình trích ly là quá trình khuếch tán nên người ta thường dựa vào các định luật khếch tán của FICK để giải thích và tính toán.</para>
+      <para id="id12348430">Chất lượng của tinh dầu thu được bằng phương pháp trích ly phụ thuộc rất nhiều vào dung môi dùng để trích ly, vì thế dung môi dùng để trích ly cần phải đảm bảo các yêu cầu sau:</para>
+      <para id="id12642212">- Nhiệt độ sôi thấp để dễ dàng tách tinh dầu ra khỏi dung môi bằng phương pháp chưng cất, nhưng không được thấp quá vì sẽ gây tổn thất dung môi, dễ gây cháy và khó thu hồi dung môi (khó ngưng tụ),</para>
+      <para id="id12348457">- Dung môi không tác dụng hóa học với tinh dầu,</para>
+      <para id="id10537522">- Độ nhớt của dung môi bé để rút ngắn thời gian trích ly (độ nhớt nhỏ khuếch tán nhanh),</para>
+      <para id="id10537533">- Dung môi hòa tan tinh dầu lớn nhưng hòa tan tạp chất bé,</para>
+      <para id="id10537543">- Dung môi không ăn mòn thiết bị, không gây mùi lạ cho tinh dầu và đặc biệt không gây độc hại,</para>
+      <para id="id10537555">- Dung môi phải rẽ tiền và dễ mua.</para>
+      <para id="id10537562">Tuy nhiên, không có loại dung môi nào đạt được tất cả yêu cầu trên, ví dụ: rượu, axêton hòa tan tinh dầu tốt nhưng hòa tan cả nước và đường có trong nguyên liệu nữa và như vậy tinh dầu sẽ có mùi caramen sau khi dùng nhiệt để tách dung môi. Nếu sử dụng ête êtilic dùng làm dung môi trích ly thì dung môi này hòa tan nhựa và sáp tốt nhưng độc và dễ sinh ra hỗn hợp nổ.</para>
+      <para id="id12345916">Hiện nay, người ta thường dùng dung môi là ête dầu hỏa, nhiệt độ sôi 45  700C thành phần chủ yếu là các hidro cacbon no như pentan, hexan và lẫn một ít heptan. Ête dầu hỏa cần được tinh chế trước khi sản xuất. Ête dầu hỏa được đem đi cất lại để lấy những phần có nhiệt độ sôi từ 45  700C đưa vào trích ly. Ête dầu hỏa dễ cháy nổ, độc, do đó trong sản xuất cần thực hiện nghiêm túc các qui tắc về an toàn lao động và phòng chữa cháy. Hiện nay, ở một số nước người ta dùng dung môi trích ly là CO2 lỏng, dung môi này không độc, có độ bền hóa học cao nên đảm bảo cho tinh dầu thu được có chất lượng cao.</para>
+      <para id="id12643262">b. Sơ đồ công nghệ quá trình trích ly:</para>
+      <para id="id12643270">* Chuẩn bị cho quá trình trích ly:</para>
+      <para id="id12643279">- Chọn dung môi phù hợp với nguyên liệu và phương pháp trích ly. Phương pháp trích ly có thể là tĩnh hay động, trong phương pháp trích ly tĩnh, nguyên liệu được ngâm trong dung môi trong một thời gian nhất định (cả hai đều không chuyển động), phương pháp trích ly động thì dung môi hoặc nguyên liệu chuyển động hoặc cả hai cùng chuyển động.</para>
+      <para id="id12643287">- Làm sạch dung môi</para>
+      <para id="id12558125">- Xác định thời gian trích ly cần thiết phù hợp với từng loại nguyên liệu.</para>
+      <para id="id12558137"/>
+      <para id="id12558143">* Sơ đồ công nghệ:</para>
+      <para id="id12558151">NGUYÊN LIỆU</para>
+      <para id="id10535626"/>
+      <para id="id10535815">XỬ LÝ</para>
+      <para id="id12872827">DMÔI </para>
+      <para id="id12872842">TRÍCH LY </para>
+      <para id="id12872854">MITXEN BẢ TÁCH DMÔI</para>
+      <para id="id10591180"/>
+      <para id="id10591186"/>
+      <para id="id10591193">LẮNG, LỌC BẢ THẢI DMÔI</para>
+      <para id="id10591213"/>
+      <para id="id10447037"/>
+      <para id="id10447046">TÁCH DMÔI DMÔI TINH CHẾ</para>
+      <para id="id10447066"/>
+      <para id="id10447072"/>
+      <para id="id10232689">CANCRÊT</para>
+      <para id="id10232700"/>
+      <para id="id10232706"/>
+      <para id="id10232712">TÁCH SÁP BẰNG C2H5OH </para>
+      <para id="id12641504"/>
+      <para id="id12641510"/>
+      <para id="id12641516">LÀM LẠNH LỌC SÁP</para>
+      <para id="id12641536"/>
+      <para id="id10383621"/>
+      <para id="id10383627">C2H5OH TÁCH C2H5OH </para>
+      <para id="id10234603"/>
+      <para id="id10234610"/>
+      <para id="id10234616">TINH DẦU THÀNH PHẨM</para>
+      <para id="id10234627"/>
+      <para id="id10234633">* Trích ly: Nguyên liệu dùng cho trích ly phải ráo nước. Sau khi cho dung môi và nguyên liệu vào thiết bị trích ly, đem lọc ta sẽ được mitxen, mitxen là hỗn hợp gồm tinh dầu và dung môi. Đem lắng và lọc mitxen để tách các tạp chất như các mảnh nguyên liệu, nếu nguyên liệu là hoa thì các tạp chất có thể là nhụy hoa, phấn hoa. Trong trường hợp mitxen có nước cần phải tách nước, Sau đó, dùng hơi để cất thu hồi lại dung môi. Dung môi từ bả trích ly và dung môi ở thiết bị cất thu hồi được đem đi tinh chế để sử dụng trở lại. Mitxen đã tách dung môi xong gọi là cancrêt, cancrêt là một hỗn hợp gồm tinh dầu, sáp, nhưa thơm và một số tạp chất khác (axit hữu cơ) ở dạng sệt. Để tách sáp và tạp chất người ta hòa tan cancrêt bằng rượu êtilic sau đó đem làm lạnh ở -150C, sáp và tạp chất sẽ đông đặc lại, sau đó ta lọc để tách. Lúc này hỗn hợp chỉ còn lại rượu và tinh dầu, dung phương pháp cất để tách rượu, ta thu được tinh dầu tuyệt đối, rượu được đem tinh chế để dùng lại. Sáp là chất định hương có giá trị trong tinh dầu, nhưng khi có sáp trong tinh dầu, tinh dầu thường bị đục dođó phải tiến hành tách sáp trong tinh dầu.</para>
+      <para id="id10563839">Thiết bị trích ly thường đắt tiền và phức tạp, do đó phương pháp trích ly chỉ được dùng để sản xuất những loại tinh dầu quí hiếm (hàm lượng tinh dầu trong nguyên liệu bé).</para>
+      <para id="id10573310">c. Thiết bị trích ly: Để thực hiện tốt quá trình trích ly, người ta tiến hành trích ly ở nhiều thiết bị trích ly khác nhau, có thể gián đoạn hoặc liên tục, dưới đây là sơ đồ hệ thống trích ly gián đoạn:</para>
+      <para id="id10573327">
+        <media id="id16409083" alt=""><image src="../../media/graphics6-c1ff.png" mime-type="image/png" height="429" width="268"/></media>
+      </para>
+      <para id="id8218638"/>
+      <para id="id8218644">1: thiết bị trích ly2: thiết bị làm bay hơi dung môi</para>
+      <para id="id12555156">3: thiết bị ngưng tụ4: thùng chứa</para>
+      <para id="id12555168">Thiết bị trích ly 1 theo sơ đồ trên làm tổn thất dung môi lớn do các công đoạn tháo nạp liệu..Do đó người ta đã thiết kế loại thiết bị trích ly kiểu thùng quay có sơ đồ cấu tạo như sau:</para>
+      <para id="id12555185">
+        <media id="id17318869" alt=""><image src="../../media/graphics7-f6b6.png" mime-type="image/png" height="280" width="400"/></media>
+      </para>
+      <para id="id12569891">1: Cửa cho nguyên liêu vào2: Ống dẫn dung môi vào</para>
+      <para id="id12569906">3: Hơi nước trực tiếp vào4: Giỏ chứa nguyên liệu</para>
+      <para id="id12569921">5: Cửa tháo bả6: Ống tháo mitxen</para>
+      <para id="id11586628">7. Thiết bị truyền nhiệt</para>
+      <para id="id11586637"/>
+      <para id="id11586643">Nguyên liệu được cho vào các giỏ chứa 4 lắp trên một khung quay ở bên trong thiết bị. Dung môi nằm cố định trong phần dưới của thiết bị, nhờ khung quay nên các giỏ chứa nguyên liệu được nhúng liên tục vào dung môi, khi nguyên liệu đã hết tinh dầu, mitxen được tháo ra ở cửa 6, sau đó cho hơi nước vào vỏ nhiệt của thiết bị theo ống 3 để tách dung môi từ bả trích ly. </para>
+      <para id="id12012664"/>
+    </section>
+    <section id="id-278556975438">
+      <title>Khai thác tinh dầu bằng phương pháp ngâm (trích ly bằng dung môi không bay hơi):</title>
+      <para id="id12012684">a. Mở đầu: Phương pháp này dựa vào tính chất của một số dung môi không bay hơi như dầu thực vật, mỡ đông vật, vasơlin, parafin... có khả năng hòa tan tinh dầu trong nguyên liệu. Nếu ngâm bằng dung môi là chất béo động vật thì phải nâng nhiệt của quá trình để dung môi ở thể lỏng. Quá trình ngâm giống như quá trình trích ly nhưng chỉ khác là quá trình ngâm dùng dung môi không bay hơi. Dung môi dùng để ngâm phải thật tinh khiết, không có mùi lạ, do đó dung môi cần phải được tinh chế trước khi sản xuất.</para>
+      <para id="id12012692"/>
+      <para id="id12012698">b. Sơ đồ và các thông số kỹ thuật ngâm:</para>
+      <para id="id12012708">Nguyên liệu được cho vào các túi vải rồi nhúng vào dung môi, tùy thuộc vào các loại nguyên liệu mà thời gian ngâm có thể dài hoặc ngắn, thường thì khoảng 48 giờ. Nhiệt độ ngâm nằm trong khoảng 60  700C. Sau thời gian qui định, các túi được vớt ra và thay thế các túi chứa nguyên liệu mới vào, thường thì phải thay 25 lần mới có thể bảo hòa được tinh dầu trong dung môi. Bả nguyên liệu sau khi vớt ra còn chứa nhiều dung môi cần phải thu hồi bằng phương pháp ép hoặc li tâm. Nếu dung dung môi là chất béo động vật ta được sáp thơm và dung môi là dầu thực vật ta được dầu thơm. Dầu thơm và sáp thơm có thể dùng trực tiếp trong công nghiệp mỹ phẩm như dùng làm son, dầu chải tóc....Nếu không dùng trực tiếp dầu thơm và sáp thơm có thể lấy tinh dầu bằng cách tách bằng rượu êtilic rồi sau đó cất tách rượu.</para>
+      <para id="id10528565">Phương pháp này có ưu điểm là thu được tinh dầu ít tạp chất hơn, sản phẩm trung gian có thể sử dụng trực tiếp trong công nghiệp nhưng có nhược điểm là chất béo dùng làm dung môi rất khó tinh chế và bảo quản, cách tiến hành thì thủ công, khó cơ giới hóa.</para>
+      <para id="id12648634">Sơ đồ công nghệ được trình bày như sau: (xem trang sau)</para>
+      <para id="id10528593"/>
+      <para id="id10528599"/>
+      <para id="id10528605"/>
+      <para id="id12663598"/>
+      <para id="id12663604"/>
+      <para id="id12663610"/>
+      <para id="id12663616"/>
+      <para id="id12663622"/>
+      <para id="id12663628"/>
+      <para id="id12663634"/>
+      <para id="id12663640"/>
+      <para id="id11643017"/>
+      <para id="id11643024"/>
+      <para id="id11643030"/>
+      <para id="id11643036"/>
+      <para id="id11643042"/>
+      <para id="id11643048"/>
+      <para id="id11643054"/>
+      <para id="id10525981"/>
+      <para id="id10525987"/>
+      <para id="id10525994">NGUYÊN LIỆU</para>
+      <para id="id10525998"/>
+      <para id="id12487929">XỬ LÝ</para>
+      <para id="id12487936">NGÂM DUNG MÔI</para>
+      <para id="id12487948">LỌC</para>
+      <para id="id12487959"/>
+      <para id="id12487965"/>
+      <para id="id12487971">SÁP THƠM DẦU THƠM</para>
+      <para id="id10502975"/>
+      <para id="id10502981"/>
+      <para id="id10502987">TÁCH BẰNG RƯỢU ÊTILIC</para>
+      <para id="id10502998"/>
+      <para id="id10503005"/>
+      <para id="id10503011">RƯỢU + TINH DẦU</para>
+      <para id="id11968737"/>
+      <para id="id11968743"/>
+      <para id="id11968750"/>
+      <para id="id11968756"/>
+      <para id="id11968763"/>
+      <para id="id11968769">CẤT TÁCH RƯỢU</para>
+      <para id="id10525636"/>
+      <para id="id10525642"/>
+      <para id="id10525648">TINH DẦU THÀNH PHẨM</para>
+      <para id="id10525656"/>
+    </section>
+    <section id="id-294982303975">
+      <title>Khai thác tinh dầu bằng phương pháp hấp phụ:</title>
+      <para id="id12689051">a. Bản chất của phương pháp hấp phụ: Các chất béo động vật và thực vật ngoài khả năng hòa tan tinh dầu còn có khả năng hấp phụ tinh dầu lên bề mặt của nó, than và đất hoạt tính cũng có tính chất này. Phương pháp ngâm khác phương pháp hấp phụ ở phương thức tiếp xúc pha, phương pháp ngâm được tiến hành trên toàn cả hai pha lỏng_lỏng, còn phương pháp hấp phụ thì được tiến hành ở hai pha khí _ bề mặt rắn. Phương pháp hấp phụ thường sử dụng để tách tinh dầu của các loại hoa, đặc biệt là các loại hoa có khả năng sinh thêm tinh dầu ở dạng khí sau khi thu hái khỏi cây như hoa nhài, hoa huệ...</para>
+      <para id="id12689088">Chất hấp phụ thường dùng là chất béo động vật. Để dung môi đạt được những yêu cầu nhất định, người ta pha chế theo tỉ lệ:mỡ lợn/mỡ bò:2/1 hoặc3/1 (nếu sản xuất vào mùa thu hay đông) và 1/1 (nếu sản xuất và mùa hè).</para>
+      <para id="id12689096">b. Sơ đồ kỹ thuật quá trình hấp phụ: Hấp phụ có thể tiến hành theo hai dạng: hấp phụ tĩnh và hấp phụ động.</para>
+      <para id="id12664151">* Sơ đồ kỹ thuật hấp phụ tĩnh:</para>
+      <para id="id12664161">NGUYÊN LIỆU</para>
+      <para id="id12664165"/>
+      <para id="id9488726">  XỬ LÝ</para>
+      <para id="id11733413">HẤP PHỤ CHẤT HẤP PHỤ̣ </para>
+      <para id="id11733426">TINH DẦU + CHẤT HẤP PHỤ BẢ TRÍCH LY DMÔI</para>
+      <para id="id11733455"/>
+      <para id="id10533824"/>
+      <para id="id10533830">TÁCH BẰNG RƯỢU ÊTILIC</para>
+      <para id="id10533838"/>
+      <para id="id10533844"/>
+      <para id="id10533851">RƯỢU + TINH DẦU</para>
+      <para id="id10533862"/>
+      <para id="id12664600"/>
+    </section>
+    <section id="id-421172904397">
+      <title>LÀM LẠNH, LỌC</title>
+      <para id="id12664624"/>
+      <para id="id12664630"/>
+      <para id="id12664639">CẤT TÁCH RƯỢU</para>
+      <para id="id10579905"/>
+      <para id="id10579911"/>
+      <para id="id10579917">TINH DẦU THÀNH PHẨM</para>
+      <para id="id10579926"/>
+      <para id="id10579933">Để hấp phụ người ta thường dùng các khay bằng gỗ (nếu hấp phụ bằng chất béo động vật) có kích thước 500 * 500 mm hoặc 600 * 900 mm, cao từ 50  80 mm. Đáy của các khay có lắp kính, lớp chất béo có bề dày 3  5 mm được đổ trên các mặt kính này. Để tăng bề mặt hấp phụ, người ta rạch những đường rãnh trên các lớp chất béo. Nguyên liệu sau khi thu hái được làm ráo, loại bỏ tạp chất rồi xếp vào các khay, sau đó các khay được chồng lên nhau nhưng không được cao quá đầu người để dễ dàng thao tác. Thời gian hấp phụ khoảng 12  72 giờ (tùy loại nguyên liệu). Mỗi lượt thay lớp nguyên liệu mới cần lật ngược lớp chất béo lại, chú ý phải lấy thật sạch lớp nguyên liệu cũ tránh tình trạng gây mốc trên bề mặt chất béo. Nếu lớp hấp phụ đã bảo hòa tinh dầu mà chưa có điều kiện đem đi chế biến ngay cần phải bảo quản cẩn thận bằng cách đun cho nóng chảy rồi đổ vào các thùng tráng thiếc và rải một lớp parafin mỏng lên trên để tránh tiếp xúc với không khí.</para>
+      <para id="id12348286">Hấp phụ động: Để khắc phục các nhược điểm của hấp phụ tĩnh người ta dùng phương pháp hấp phụ động để khai thác tinh dầu. Chất hấp phụ thường dùng là than gỗ hay than xương. Khi than đã bảo hòa tinh dầu, có thể cho tác dụng với dung môi lỏng (ví dụ rượu êtilic) để tách tinh dầu ra. Sơ đồ kỹ thuật như sau:</para>
+      <para id="id12348303">
+        <media id="id20319948" alt=""><image src="../../media/graphics8-a5d8.png" mime-type="image/png" height="329" width="533"/></media>
+      </para>
+      <para id="id12505534"/>
+      <para id="id12505540">1: Quạt gió2: TB lọc không khí3: Đồng hồ lưu lượng</para>
+      <para id="id12505557">4: Tháp làm ẩm Kkhí5: TB chứa nguyên liệu6: TB hấp phụ</para>
+      <para id="id12138665">Tốc độ không khí trong tháp hấp phụ có thể thay đổi từ 1,5  3 lít/phút.cm2 tiết diện tháp. Còn chiều cao của lớp than hoạt tính trong điều kiện như vậy là 20  25 cm.</para>
+      <para id="id11734032"/>
+    </section>
+    <section id="id-00568324658725">
+      <title>Tách tinh dầu bằng phương pháp cơ học:</title>
+      <para id="id12138698">Phương pháp này chủ yếu dùng để tách tinh dầu trong các loại vỏ quả như cam, chanh, quýt....Trong loại nguyên liệu này, tinh dầu nằm trong những túi tế bào ở bề mặt ngoài. Khi dùng lực cơ học tác dụng vào vỏ quả, tinh dầu sẽ thoát ra. Tinh dầu sản xuất bằng phương pháp này có chất lượng cao hơn phương pháp chưng cất, có mùi thơm tự nhiên của nguyên liệu, tuy nhiên hiệu suất thấp. Người ta thường dùng các cách như sau:</para>
+      <para id="id11734057">a. Vắt, bóp: Quả được cắt ra làm 2  3 phần, dùng thìa để tách thịt quả để riêng rồi dùng tay vắt bóp cho tinh dầu thoát ra ngoài. Tinh dầu thoát ra được thấm vào bông, khi bông đã bảo hòa tinh dầu, vắt lại cho vào cốc, đem lọc, lắng, sấy thu được tinh dầu thành phẩm. Vỏ đã vắt xong đem chưng cất để thu hết tinh dầu.</para>
+      <para id="id11983711">b. Bào, nạo: Dùng nguyên quả rồi xát mặt ngoài của vỏ vào bề mặt nhám, tế bào vỏ quả sẽ vỡ ra, tinh dầu thoát ra ngoài, lớp gai của bàn xát phải vừa phải để tránh đâm thủng ruột quả, nếu ruột quả bị thủng sẽ gây khó khăn vì tinh dầu sẽ bị lẫn nước quả và lớp cùi bên trong bị nạo rách sẽ hút mất một ít tinh dầu. Phương pháp này cũng như phương pháp trên gây tổn thất nhiều tinh dầu. Tinh dầu cam, chanh, quýt tách này bằng phương pháp này muốn sử dụng trong thực phẩm ta phải tách bớt tecpen, chủ yếu là limonen, vì nếu không tách thì limonen sẽ bị oxy hóa thành pinen có mùi nhựa thông.</para>
+      <para id="id11983720">c. Ép: Có thể ép nguyên quả bằng những máy ép đặc biệt, trong quá trình ép có dội nước. Sau khi ép ta được hỗn hợp gồm nước quả, tinh dầu, mô và thịt quả. Để tách tinh dầu ra, cần phải lọc để loại bớt tạp chất, sau đó dùng máy li tâm có tốc độ 15000  20000 vòng/phút để tách tinh dầu.</para>
+    </section>
+    <section id="id-369875095222">
+      <title>Một số qui trình sản xuất tinh dầu:</title>
+      <section id="id-0589534197762">
+        <title>Qui trình sản xuất tinh dầu sả:</title>
+        <para id="id10535556">Nguyên liệu là lá sả tươi đạt độ chín kỹ thuật, tức là lúc đầu lá (tính từ ngoài vào) đã khô từ 5  10 cm thì cắt, sau khi cắt xong lá sã được phơi héo đến độ ẩm còn 50 % so với ban đầu. Ở độ ẩm này, lá sã bảo quản được một số ngày ở nơi cất, hơn nữa, cất lá sả héo sẽ giảm được 35 % nhiên liệu và 27 % thời gian chưng cất. Trước khi đưa lá sả vào nồi cất, cần chú ý loại các tạp chất như cỏ rác lẫn vào trong quá trình thu hái. Nguyên liệu nạp vào nồi cất phải đảm bảo từ 180  200 kg/m3 thể tích thiết bị, thời gian chưng cất (lá héo) từ 2  2,5 giờ. Bả sau khi chưng cất được đem phơi khô để làm nhiên liệu. Hơi tinh dầu và nước sẽ vào thiết bị ngưng tụ, cần khống chế nhiệt độ nước làm lạnh trong khoảng 35  400C. Hỗn hợp tinh dầu và nước sẽ được tách ra bằng thiết bị phân ly, nước chưng sẽ được đưa vào bể xử lý để tách tinh dầu loại II. Tinh dầu thô được lắng để tách tạp chất lớn và được làm khô bằng Na2SO4 khan, lượng Na2SO4 tùy thuộc vào hàm lượng nước trong tinh dầu sả, thường thì 25  50 gam/kg tinh dầu. Sau đó tinh dầu được đem lọc để tách Na2SO4 ra, Na2SO4 tách ra được đem rửa hai lần bằng nước ấm rồi cho vào túi vải bỏ vào nồi chưng cất để tận thu tinh dầu. Sau đó đem sấy khô và bảo quản trong bình kín. Tinh dầu sả khử hết nước có màu sáng, được đóng chai bảo quản.</para>
+        <para id="id12569417">Sơ đồ công nghệ:</para>
+        <para id="id10533915">LÁ SẢ TƯƠI</para>
+        <para id="id10533922"/>
+        <para id="id12345530">LÀM HÉO</para>
+        <para id="id12345538">CHƯNG CẤT BẢ PHƠI</para>
+        <para id="id12072180">NGƯNG TỤ CHẤT ĐỐT</para>
+        <para id="id12072196"/>
+        <para id="id12072202"/>
+        <para id="id12072208">PHÂN LY</para>
+        <para id="id12072219"/>
+        <para id="id11968535"/>
+        <para id="id11968541">TINH DẦU THÔ NƯỚC CHƯNG</para>
+        <para id="id11968556"/>
+        <para id="id11968563"/>
+        <para id="id11968569">LẮNG TÁCH TINH DẦU II</para>
+        <para id="id10599447"/>
+        <para id="id10599453"/>
+        <para id="id10599460"/>
+        <para id="id10599466">SẤY</para>
+        <para id="id10599477"/>
+        <para id="id10599483"/>
+        <para id="id10599489">LỌC</para>
+        <para id="id12669119"/>
+        <para id="id12669128"/>
+        <para id="id12669134">TINH DẦU THÀNH PHẨM</para>
+        <para id="id12669146"/>
+      </section>
+      <section id="id-961727917831">
+        <title>Qui trình sản xuất tinh dầu bạc hà:</title>
+        <para id="id10528498">Qui trình công nghệ sản xuất tinh dầu bạc hà tương tự như qui trình sản xuất tinh dầu sả, song cần chú ý một số điểm sau:</para>
+        <para id="id10528513">Thường thì cứ 1 m3 nồi cất nạp từ 100  125 kg lá bạc hà khô ( đã phơi trong râm mát từ 1  3 ngày). Tốc độ chưng cất điều chỉnh sao cho ít nhất 5 % thể tích nồi cất trong một giờ. Thời gian chưng cất 2,5  3 giờ cho một mẻ, nhiệt độ dịch ngưng từ 30  350C. Tinh dầu bạc hà sau cất được đem đi lắng, làm khô sẽ có màu vàng, hơi xanh, trong suốt, không vẫn đục.</para>
+      </section>
+      <section id="id-832904354866">
+        <title>Qui trình công nghệ sản xuất tinh dầu quế:</title>
+        <para id="id12331111">Sơ đồ công nghệ:</para>
+        <para id="id12331120">NGUYÊN LIỆU</para>
+        <para id="id12331127"> NGHIỀN, BĂM</para>
+        <para id="id11874002"> CHƯNG CẤT BẢ PHƠI</para>
+        <para id="id10537831">NGƯNG TỤ HƯƠNG LIỆU</para>
+        <para id="id10537847">PHÂN LY</para>
+        <para id="id10537858">TINH DẦU THÔ NƯỚC CHƯNG</para>
+        <para id="id10454917">LẮNG TÁCH TINH DẦU II</para>
+        <para id="id10454932">SẤY</para>
+        <para id="id10454943">LỌCTINH DẦU THÀNH PHẨM</para>
+        <para id="id10607839">Nguyên liệu dùng để cất tinh dầu quế có thể cành, lá hoặc vỏ quế vụn. Nếu dùng cành, lá thì nên cất ở dạng tươi vì nố sẽ cho màu sắc sản phẩm đẹp hơn. Nếu nguyên liệu là vỏ quế vụn thì trước khi cất nên nghiền (lọt sàng 3 mm), nếu là cành, lá thì phải băm nhỏ. Phần nước chưng sau khi phân ly có thể cho hồi lưu trở lại nồi cất để tận thu tinh dầu. Nguyên liệu chỉ cho 1/10 đến 2/10 thể tích nồi cất, nếu không sẽ có hiện tượng trào bọt qua vòi voi. Thời gian chưng cất khoảng 2,5  3 giờ. Tinh dầu quế nặng hơn nước nên phải dùng thiết bị phân ly thích hợp. Tinh dầu quế thành phẩm có màu vàng nâu, trong suốt.</para>
+      </section>
+      <section id="id-747332672998">
+        <title>Qui trình công nghệ sản xuất tinh dầu cam, chanh, quýt:</title>
+        <para id="id12569947">a. Sản xuất tinh dầu cam, chanh, quýt bằng phương pháp trích ly: Nguyên liệu là vỏ cam, chanh, quýt, nếu cần bảo quản để sản xuất lâu dài thì nghiền nhỏ (10*6 mm) và ngâm trong dung dịch muối ăn 25 %. </para>
+        <para id="id12569964">Nguyên liệu được ngâm trong cồn thực phẩm 80 %V trong thùng nhôm, sau 48 giờ, chiết ra và thay bằng cồn cao độ hơn (90  94 %V), ngâm tiếp trong 24 giờ, tỉ lệ cồn và vỏ sao cho đủ để ngập hết vỏ trong thùng, cồn ngâm xong đem cất để lấy riêng từng phần. Phần đầu đục, để riêng ra để cất lại, phần kế đó trong, có mùi thơm là thành phẩm.</para>
+        <para id="id12569973">Loại có độ cồn 60 %V trở lên trộn chung lại để pha nước ngọt, loại 15  60%V cho vào nồi cất để cất lại.</para>
+        <para id="id10517745">b. Sản xuất tinh dầu cam, chanh, quýt bằng phương pháp chưng cất: Cất tinh dầu cam, chanh, quýt tốt nhất là từ vỏ tươi. Trước khi cất cần nghiền nhỏ (2*2 mm), thời gian chưng cất 2,5  4 giờ.</para>
+        <para id="id10517774">Tinh dầu cam, chanh, quýt thu được bằng phương pháp này chứa nhiều tecpen và seckitecpen nên dễ bị oxy hóa ở điều kiện thường, do đó sau khoảng 5 tuần bảo quản đã có mùi khó chịu. Phải tách bớt tecpen và seckitecpen bằng cách hòa tan tinh dầu trong cồn cao độ (96 %V), tinh dầu sẽ hòa tan hoàn toàn, sau đó thêm nước cất vào để hạ nồng độ cồn đến 65 %V, các dạng tecpen sẽ không hòa tan ở cồn thấp độ nổi lên trên, lọc đi ta sẽ thu được tinh dầu không còn tecpen. Loại tinh dầu này có thể sử dụng trực tiếp để pha chế rượu mùi, nước giải khát mà không sợ đục.</para>
+        <para id="id10517781">Tinh dầu cam, chanh, quýt đã loại tecpen cần đóng trong các chai lọ có màu, tránh tiếp xúc trực tiếp với ánh sáng, không khí.</para>
+        <para id="id10514056"/>
+        <para id="id10514063"/>
+      </section>
+    </section>
+  </content>
+</document>

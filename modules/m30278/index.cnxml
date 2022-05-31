@@ -1,0 +1,612 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Kỹ thuật khai thác lưới kéo</title>
+  <metadata>
+  <md:content-id>m30278</md:content-id><md:title>Kỹ thuật khai thác lưới kéo</md:title>
+  <md:abstract>Đây là tài liệu về kỹ thuật khai thác lưới kéo</md:abstract>
+  <md:uuid>7649245c-845e-42a7-aa2f-ab14c0ad2043</md:uuid>
+</metadata>
+  <content>
+    <section id="id-780780255095">
+      <title>Phân loại lưới kéo</title>
+      <para id="id7782306">Có nhiều cách phân loại lưới kéo, người ta có thể căn cứ: vào tầng nước hoạt động; theo số tàu (thuyền) áp dụng; vào động lực được trang bị; dựa vào kết cấu lưới; dựa theo phương tiện vật lý tăng cường đánh bắt; dự vào số miệng lưới d0ược kéo; và dựa vào đối tượng khai thác,... mà phân loại lưới kéo. Nếu: </para>
+      <list id="id7765828" list-type="bulleted">
+        <item>Căn cứ theo tầng nước hoạt động, có thể phân thành::</item>
+      </list>
+      <list id="id7765847" list-type="bulleted">
+        <item>Lưới kéo tầng đáy, luôn làm việc sát đáy (H 5.1)</item>
+        <item>Lưới kéo tầng giữa, làm việc ở lớp nước ở gần đáy lên tới mặt nước (H 5.2)</item>
+      </list>
+      <para id="id7765879">Trong đó lưới Kéo tầng đáy chiếm đa số.</para>
+      <para id="id7765888">
+        <figure id="id7765914">
+          <media id="id2458546" alt=""><image src="../../media/graphics1-f09a.png" mime-type="image/png" height="195" width="261"/></media>
+        </figure>
+        <figure id="id7765945">
+          <media id="id6379885" alt=""><image src=".png" mime-type="image/png" height="206" width="280"/></media>
+        </figure>
+      </para>
+      <para id="id7910615">H 5.1 - Lưới kéo tầng đáy. </para>
+      <para id="id7910628">Ảnh của FAO, 1985</para>
+      <list id="id7910632" list-type="bulleted">
+        <item>
+          <list id="id7910634" list-type="bulleted">
+            <item>Căn cứ vào số lượng tàu thuyền kéo lưới, có 2 loại:</item>
+          </list>
+        </item>
+        <item>Lưới kéo đơn (giả đơn): đơn đuôi (H 5.3a); đơn mạn (H 5.3b).</item>
+        <item>Lưới kéo đôi hay Giả đôi, hay Cào đôi (H 5.3c)</item>
+      </list>
+      <figure id="id7910694">
+        <media id="id7020292" alt=""><image src="../../media/graphics2-d848.png" mime-type="image/png" height="502" width="600"/></media>
+      </figure>
+      <list id="id8406274" list-type="bulleted">
+        <item>
+          <list id="id8406276" list-type="bulleted">
+            <item>Căn cứ vào động lực tàu thuyền kéo lưới, có 3 loại:</item>
+          </list>
+        </item>
+        <item>Lưới kéo thuyền buồm (ít sử dụng)</item>
+        <item>Lưới kéo thuyền buồm lắp máy</item>
+        <item>Lưới kéo cơ giới<list id="id8406316" list-type="bulleted"><item>Căn cứ vào cấu tạo lưới, có 5 loại:</item></list></item>
+        <item>Lưới kéo có cánh</item>
+        <item>Lưới kéo không cánh</item>
+        <item>Lưới kéo 2 thân (2 tấm)</item>
+        <item>Lưới kéo 4 thân (4 tấm)</item>
+        <item>Lưới kéo dây<list id="id8406362" list-type="bulleted"><item>Căn cứ vào phương tiện vật lý tăng cường đánh bắt</item></list></item>
+        <item>Lưới kéo thường</item>
+        <item><figure id="id8406389"><media id="id1164231713338" alt=""><image src="../../media/graphics3-2aa6.png" mime-type="image/png" height="429" width="289"/></media></figure>Lưới kéo điện</item>
+        <item>Lưới kéo ánh sáng<list id="id7904132" list-type="bulleted"><item>Căn cứ vào số lượng lưới được kéo</item></list></item>
+        <item>Lưới kéo 2 lưới (H 5.4)</item>
+        <item>Lưới kéo 4 lưới</item>
+        <item>Lưới kéo 8 lưới</item>
+        <item>Lưới kéo 16 lưới<list id="id7904189" list-type="bulleted"><item>Căn cứ vào hệ thống mở miệng lưới</item></list></item>
+        <item>Lưới kéo có ván lưới (H 5.5)</item>
+        <item>Lưới cào rường</item>
+        <item>Lưới cào khung<list id="id7904232" list-type="bulleted"><item>Căn cứ vào đối tượng đánh bắt </item></list></item>
+        <item>Lưới kéo tôm</item>
+        <item>Lưới kéo cá</item>
+        <item>Lưới cào sò, điệp</item>
+      </list>
+      <para id="id7904264">Hiện nay ta đang ở giai đoạn thứ 2 của kỹ thuật khai thác, nghĩa là có sự kết hợp giữa cơ giới với các đặc tính sinh học cá, chẳng hạn, đánh cá kết hợp điện, ánh sáng,...</para>
+    </section>
+    <section id="id-482988428958">
+      <title>Lưới kéo tầng đáy</title>
+      <section id="id-726951164387">
+        <title>Cấu tạo lưới kéo</title>
+        <para id="id8521501">Cấu tạo của lưới kéo gồm: áo lưới, các dây giềng và các trang thiết bị phụ trợ (H 5.6).</para>
+        <figure id="id8521523">
+          <media id="id2267845" alt=""><image src="../../media/graphics4-e4f0.png" mime-type="image/png" height="437" width="600"/></media>
+        </figure>
+        <section id="id-413845299929">
+          <title>Áo lưới</title>
+          <para id="id8521554">Áo lưới kéo bao gồm 4 phần chính: Cánh lưới, lưới chắn, thân lưới, và đụt lưới (H 5.7a). Ngoài ra trong từng phần lưới ciòn được chia phụ thêm dựa theo kích thước mắt lưới và độ thô chỉ lưới (H 5.7b)</para>
+          <para id="id8521582">CánhThânĐụtLưới chắnVùng hướng cáVùng giữ cáVùng uy hiếpH 5.7a – Các bộ phận chủ yếu của áo lưới</para>
+          <figure id="id8521045">
+            <media id="id4075282" alt=""><image src="../../media/graphics5-b4a0.png" mime-type="image/png" height="488" width="507"/></media>
+          </figure>
+          <list id="id8521069" list-type="bulleted">
+            <item>Cánh lưới</item>
+          </list>
+          <para id="id8673491">Để làm ra cánh lưới người ta có thể đan một mạch để tạo thành tấm lưới theo phương pháp tăng hoặc giảm, hoặc có thể sử dụng tấm lưới đã được dệt sẳn rồi cắt ra thành từng tấm lưới có hình dạng nào đó, sau đó các tấm này được ráp lại bằng các đường sươn quấn hoặc có thể kết hợp giữa cả đan và cắt.</para>
+          <para id="id8673509">Cạnh mắt lưới, theo qui luật đi từ miệng trở vào thân và đụt thì nhỏ dần, mắt lưới tại đụt là nhỏ nhất. Vật liệu làm lưới có thể bằng sợi thiện nhiên, như sợi bông, đay, gai,... hoặc bằng vật liệu sợi tổng hợp như Polyetylene, Nilon,... Hiện nay sợi thiên nhiên ít được sử dụng trong nghề cá, bởi cường độ đứt thấp và dễ bi mục nát khi để lâu trong nước.</para>
+          <para id="id8673523">Biên ngoài của cánh lưới thường có 3 dạng sau: hình nón, hình phỏng nón và hình chữ nhật.</para>
+          <figure id="id8673534">
+            <media id="id7263028" alt=""><image src="../../media/graphics6-2d06.png" mime-type="image/png" height="203" width="561"/></media>
+          </figure>
+          <para id="id8673558">Ở đây, độ dốc của đường biên được đánh giá bằng độ nghiêng K. Độ nghiêng K được tính như sau:</para>
+          <para id="id8673586">
+            <figure id="id8673589">
+              <media id="id7484316" alt=""><image src="../../media/graphics7-0d1e.png" mime-type="image/png" height="150" width="192"/></media>
+            </figure>
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>K</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>tg</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mi>α</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mi>b</m:mi>
+                            <m:mi>h</m:mi>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{K= ital "tg"α= {  {b}  over  {h} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id8404475">hay:
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>K</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mn>2h</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{K= {  {B rSub { size 8{1} }  - B rSub { size 8{2} } }  over  {2h} } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id8404566">trong đó: B1 = 2.a.n1.U1</para>
+          <para id="id8404602">B2 = 2.a.n2.U1</para>
+          <para id="id8742447">h = 2.a.m2.U2</para>
+          <para id="id8742472">ở đây: a là kích thước cạnh mắt lưới; n1 và n2 tương ứng là số mắt lưới của cạnh đáy trên và đáy dưới; U1 và U2 tương ứng là hệ số rút gọn ngang và hệ số rút gọn đứng của tấm lưới.</para>
+          <para id="id8742547">Lưu ý: </para>
+          <list id="id8742559" list-type="bulleted">
+            <item>Khi độ nghiêng K nhỏ, thì lưới sẽ dài, gây tốn nhiều nguyên vật liệu, giá thành sẽ cao.</item>
+            <item>Nếu độ nghiêng K lớn, lưới sẽ nhẹ, giá thành thấp, nhưng cá dễ thoát ra ngoài.</item>
+          </list>
+          <para id="id7802295">Đầu cánh lưới</para>
+          <para id="id7802300">Hiện nay, lưới kéo trên thế giới có các dạng đầu cánh lưới như sau: đầu cánh thẳng; đầu cánh hình thang; đầu cánh cắt vát; và đầu cánh dạng đuôi én.</para>
+          <figure id="id7802314">
+            <media id="id1164231572571" alt=""><image src="../../media/graphics8-d51c.png" mime-type="image/png" height="281" width="599"/></media>
+          </figure>
+          <para id="id7802337">Trong các dạng đầu cánh như trên thìđầu cánh đuôi én thường được áp dụng nhất bởi cho độ mở cao là lớn nhất. Thực nghiệm về độ mở cao của các loại đầu cánh cho thấy rằng nếu ta giả định là độ mở cao của đầu cánh đuôi én là 100% thì đầu cánh đuôi thẳng và đầu cánh rút ngắn có độ mở cao là 70%; đầu cánh hình thang là 75%; và cầu cánh cắt vát là 80%. Do vậy, tùy theo đối tượng đánh bắt mà ta chọn đầu cánh có độ mở cao thích hợp.</para>
+          <para id="id7802352">Cánh lưới</para>
+          <para id="id7802357">Trên thế giới hiện nay có các dạng cánh lưới sau:</para>
+          <figure id="id7802367">
+            <media id="id4288202" alt=""><image src="../../media/graphics9-d48c.png" mime-type="image/png" height="193" width="570"/></media>
+          </figure>
+          <para id="id7802391">Tác dụng của cánh lưới lưới là để tăng diện tích vây vét cá, tôm. Cánh lưới càng dài thì diện tích vây vét càng lớn, nhưng sức cản cũng tăng lên. Để giảm lực cản cho cánh lưới, người ta nối thêm viền trống. Tác dụng của viền trống giúp đưa ván lưới ra xa cánh, giảm sự cố gây rách cánh lưới, đồng thời tạo điều kiện cho ván làm việc an toàn, ổn định. Viền trống đồng thời cũng là một cánh lưới giả có khả năng lùa quét cá, tôm.</para>
+          <list id="id7802405" list-type="bulleted">
+            <item>Chiều dài lưới chắn:</item>
+          </list>
+          <para id="id7802422">Llưới chắn = (0,3-0,4).B</para>
+          <list id="id7802439" list-type="bulleted">
+            <item>Chiều dài lưới cánh:</item>
+          </list>
+          <para id="id7802455"><figure id="id7802458"><media id="id7362072" alt=""><image src="../../media/graphics10.png" mime-type="image/png" height="406" width="286"/></media></figure>Lcánh = (0,2-0,3).B</para>
+          <para id="id8260533">Lưu ý: Cánh lưới kéo tầng giữa thì ngắn hơn cánh lưới kéo tầng đáy.</para>
+          <list id="id8260556" list-type="bulleted">
+            <item>Chiều dài hàm trên:</item>
+          </list>
+          <para id="id8260572">Lhàm trên = (0,12-0,2).B</para>
+          <para id="id8260589">ở đây: B là chiều rộng kéo căng của tấm lưới chắn.</para>
+          <list id="id8260594" list-type="bulleted">
+            <item>Độ nghiêng của tấm lưới chắn:</item>
+          </list>
+          <para id="id8260610">K = 0,2-0,3</para>
+          <para id="id8260614">+ Thân lưới</para>
+          <para id="id8260627">Tác dụng của thân là tiếp tục lùa và hướng cá vào đụt. Do thân lưới phải dài nên than có thể được phân thành nhiều đoạn thân có kích thước cạnh mắt lưới và độ thô chỉ lưới khác nhau.</para>
+          <para id="id8260640">Hiện nay có 3 dạng thân lưới sau: thân hình nón; thân phỏng nón; và thân hình chữ nhật.</para>
+          <figure id="id8260652">
+            <media id="id4529144" alt=""><image src="../../media/graphics11.png" mime-type="image/png" height="197" width="531"/></media>
+          </figure>
+          <para id="id8260676">- Chiều dài của thân: Lthân = (0,2-0,6).B</para>
+          <para id="id8486902">nhưng thường thấy nhất là :Lthân = (0,3-0,4).B</para>
+          <para id="id8486921">trong đó: B là chiều rộng kéo căng của mép trên của thân.</para>
+          <para id="id8486928">- Độ nghiêng của thân: K = (0,2-0,3) nghĩa là α = (16-18)o</para>
+          <para id="id8486949">+ Đụt lưới</para>
+          <para id="id8486961">Đụt lưới là nơi giữ cá, chứa cá và bắt cá. Do đó nhiệm vụ của đụt là không để cho cá thoát ra ngoài, cũng như không cho cá đóng vào lưới. Vì thế, đụt lưới là nơi có kích thước mắt lưới là nhỏ nhất và độ thô chỉ lưới lớn nhất so với các phần thân và cánh (d/a &gt;&gt;). Ta có các dạng kiểu đụt lưới sau:</para>
+          <figure id="id8486983">
+            <media id="id1164231843125" alt=""><image src="../../media/graphics12.png" mime-type="image/png" height="178" width="576"/></media>
+          </figure>
+          <para id="id8487007">Trong quá trình làm việc đụt lưới kéo luôn bị ma sát với nền đáy, nên đụt thường bi mài mòn, do đó, ổ phần đụt ngưới ta còn làm thêm áo bao đụt, áo này có độ thô chỉ lưới lớn hơn và chống mài mòn tốt hơn so với áo đụt lưới.</para>
+          <para id="id8487021">Độ nghiêng của phần đụt : K = 0,12-0,16</para>
+          <para id="id8487026">Độ rộng phần đụt thì phụ thuộc vào chiều rộng của phần dùng cho trượt lưới khỏi tàu (ở đuôi tàu), phụ thuộc vào lực kéo của máy tời và phụ thuộc vào lượng cá chứa trong đụt lưới. Ta có thể tính chiều dài đụt lưới kéo theo công thức sau:</para>
+          <para id="id8487042">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>L</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mi>G</m:mi>
+                            <m:mi>q</m:mi>
+                          </m:mfrac>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mi>n</m:mi>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{L= {  {G}  over  {q} } +n} {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id8588514">trong đó: G là sản lượng (theo tấn) của một mẽ lưới kéo.</para>
+          <para id="id8588523">q là trọng lượng cá chứa trong 1 m chiều dài đụt.</para>
+          <para id="id8588531">n là chiều dài dự trữ, thường n = 2-2,5 m</para>
+        </section>
+      </section>
+      <section id="id-87142645841">
+        <title>Các trang thiết bị của lưới kéo</title>
+        <para id="id8588548">+ Phao</para>
+        <para id="id8588560">Trong lưới kéo người ta dùng phao để nâng miệng lưới, Trước đây chủ yếu là dùng phao thủy tĩnh, ngày nay người ta kết hợp giữa phao thủy tĩnh và phao thủy động. Phao dùng trong lưới kéo chủ yếu là phao cầu bằng nhựa hoặc thủy tinh tổng hợp. Nhưng nhược điểm của phao hình cầu thủy tinh thường bị vỡ và ở độ sâu lớn dễ bị ngấm nước, nên chủ yếu dùng ở độ sâu nhỏ hơn 100 m nước. Ở độ sâu lớn người ta phải dùng phao kim loại (H 5.8).</para>
+        <para id="id8588586">Để nâng độ mở đứng cho miệng lưới kéo, người ta còn lắp thêm ở giềng phao bởi một số phao thủy động, phao này sẽ có sức nổi tăng lên rất lớn một khi làm việc trong môi trường có lưu tốc dòng chảy hoặc vận tốc tàu.</para>
+        <figure id="id8588601">
+          <media id="id2013262" alt=""><image src="../../media/graphics13.png" mime-type="image/png" height="199" width="473"/></media>
+        </figure>
+        <para id="id8588625">Nếu gọi P là lực nổi của phao thủy động, thì lực nổi này sẽ là:</para>
+        <para id="id8588633">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>P</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mi>q</m:mi>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>y</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{P=q+R rSub { size 8{y} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8688314">trong đó:q là thành phần lực nổi thủy tĩnh; Ry là thành phần lực nổi thủy động</para>
+        <para id="id8688347">Từ đây ta thấy, nếu:</para>
+        <list id="id8688352" list-type="bulleted">
+          <item>Nếu vận tốc nước lên phao thủy động V = 0 thì Ry = 0, khi đó: P = q, nghĩa là, lực nổi của phao thủy động sẽ bằng với lực nổi thủy tĩnh.</item>
+          <item>Nếu vận tốc nước lên phao thủy động V ≠ 0 thì Ry ≠ 0, khi đó: P= q +Ry, nghĩa là, lực nổi của phao thủy động sẽ bao gồm cả lực nổi thủy tĩnh và lực nổi thủy động.</item>
+        </list>
+        <para id="id8688457">Ngoài ra, để làm tăng độ mở cao cho viền phao người ta còn lắp ”diều” ở miệng lưới kéo (H 5.9).</para>
+        <figure id="id8521129">
+          <media id="id5131129" alt=""><image src="../../media/graphics14.png" mime-type="image/png" height="199" width="502"/></media>
+        </figure>
+        <para id="id8521153">+ Các dây giềng trong lưới kéo </para>
+        <para id="id8521170">Tác dụng của giềng phao và giềng chì nhằm tạo độ mở đứng cho miệng lưới kéo. Các dây giềng trống (dây đỏi), gồm: giềng trống của giềng phao (đỏi phao); giềng trống của giềng chì (đỏi chì); và giềng trống của giềng lực hông (đỏi biên) nhằm đưa ván ra xa lưới và tăng diện tích lùa quét.</para>
+        <para id="id8521202">Dây nâng miệng lưới chạy dọc theo giềng phao đến giữa giềng phao rồi vòng theo cánh lưới đi xuống giềng chì. Mục đích sử dụng của dây nâng miệng lưới là để nâng giềng chì nặng lên trườc khi thao tác thu lưới.</para>
+        <para id="id8521223">Đối với lưới cơ giới thì giềng phao gồm 3 đoạn, mỗi đoạn được làm bằng dây cáp thép có bọc sợi thực vật bên ngoài. Giềng chì cũng gồm 5-7 đoạn dây cáp thép có bọc sợi thực vật. Cần lưu ý là trong lưới kéo có hai loại giềng chì: giềng chì cứng và giềng chì mềm.</para>
+        <para id="id8521242">Nếu nền đáy tương đối ”mềm”, bằng phẳng thì người ta dùng giềng chì mềm. Chẳng hạn ở vùng Vịnh Bắc bộ, biển Đông-Nam bộ và vịnh Thái lan thường dùng loại giềng chì mềm này. Nếu nền đáy khá cứng, gồ ghề, lõm chỏm thì dùng giềng chì cứng để chống mài mòn, chẳng hạn một vài vùng của biển Trung bộ.</para>
+        <para id="id8521259">Thông thường, đối với giềng chì mềm, bên trong có lõi giềng bằng cáp thép, thì bên ngoài trước hết được quấn một lớp chỉ lưới cũ, sau đó quấn dây thừng mềm (H 5.10a, b, c).</para>
+        <figure id="id8521286">
+          <media id="id7907467" alt=""><image src="../../media/graphics15.png" mime-type="image/png" height="223" width="522"/></media>
+        </figure>
+        <figure id="id7287458">
+          <media id="id1164234815263" alt=""><image src="../../media/graphics16.png" mime-type="image/png" height="211" width="447"/></media>
+        </figure>
+        <figure id="id7287485">
+          <media id="id4720022" alt=""><image src="../../media/graphics17.png" mime-type="image/png" height="258" width="513"/></media>
+        </figure>
+        <figure id="id7287512">
+          <media id="id8154187" alt=""><image src="../../media/graphics18.png" mime-type="image/png" height="177" width="586"/></media>
+        </figure>
+        <list id="id7287535" list-type="bulleted">
+          <item>Các giềng lực hông của thân lưới có chức năng gánh bớt các lực tải cho lưới trong quá trình dắt lưới. Đảm bảo cho lưới không bi rách do tải quá lớn tác dụng lên lưới. Các giềng này được lắp dọc từ đầu cánh ra tới đụt lưới kéo.</item>
+          <item><figure id="id7287566"><media id="id8319028" alt=""><image src="../../media/graphics19.png" mime-type="image/png" height="152" width="325"/></media></figure>Vòng dây thắt miệng đụt được lắp được lắp quanh đụt lưới kéo thông qua hệ thống các vòng khuyên. Khi thu sản lượng người ta dùng máy tời và cần cẩu để thu dây này để nâng sản lượng lên tàu.</item>
+          <item>Vòng dây phân chia sản lượng được dùng khi sản lượng khai thác cao nhằm tránh trường hợp đụt bị rách do sản lượng quá nặng. </item>
+        </list>
+        <para id="id8740434">+ Que ngáng</para>
+        <para id="id8740445">Que ngáng được lắp ở đầu cánh lưới, có tác dụng đảm bảo ổn định độ mở cao ban đầu của miệng lưới kéo (H 5.11).</para>
+        <para id="id8740466">Có nhiều dạng que (thanh) ngáng, gồm: que ngáng là ống thép hình trụ, dài từ (0,8-1,2)m; Que ngáng dạng con lăn; que ngáng gỗ thủ công, dài (20-30) m,...</para>
+        <figure id="id8740479">
+          <media id="id4562974" alt=""><image src="../../media/graphics20.png" mime-type="image/png" height="542" width="502"/></media>
+        </figure>
+        <para id="id8740503">Gần đây có nhiều lưới không dùng que ngáng. Cấu trúc lưới không dùng que ngáng thường có độ mở cao rất lớn, thường áp dụng cho khai thác cá tầng đáy và tầng giữa.</para>
+        <para id="id8740515">+ Dây cáp kéo</para>
+        <para id="id8740527">Dây cáp kéo dùng để kéo và đưa lưới đến độ sâu cần thiết phục vụ cho việc đánh bắt. Dây cáp kéo có thể làm bằng thừng hoặc cáp thép. Tuỳ thuộc vào công suất của tàu, tốc độ dắt lưới và sức cản của hệ thống lưới mà có độ thô khác nhau. Độ dài của dây cáp kéo phải đảm bảo đủ đưa lưới đến độ sâu cần thiết và có độ võng thích hợp sao cho lưới và ván làm việc ổn định, đồng thời phải có chiều dài dự trữ thích hợp được quấn sẵn trong tang tời lưới kéo.</para>
+        <para id="id8740555">+ Dây đỏi</para>
+        <para id="id8740567">Tác dụng của dây đỏi (giềng trống) ngoài việc đưa ván lưới ra xa cánh, nó còn có tác dụng lùa cá. Dây đỏi thường có đường kính lớn hơn dây cáp kéo (do có bọc thêm dây sợi thực vật bên ngoài), nhưng lực đứt nhỏ hơn dây cáp kéo. Trong quá trình làm việc nhờ vệt quét sát đáy của ván dọc theo hệ thống dây đỏi mà hình thánh nên bức tường bụi vô hình làm cho cá không dám chui qua hệ thống dây đỏi để ra ngoài miệng lưới.</para>
+        <para id="id8740584">+ Ván lưới</para>
+        <para id="id8740596">Ván lưới có nhiệm vụ tạo độ mở ngang cho miệng lưới, ổn định diện tích lủa quét của lưới kéo. Ván lưới được bố trí hai bên đầu cánh lưới. Ngoài ra hiện nay để tăng độ mở cao cho miệng lưới, thì ngoài phao, người ta còn lắp ván ở viền phao, gọi là “diều”. Ván lưới có rất nhiều dạng, gồm: ván chữa nhật phẳng; ván chữa nhật cong; ván bầu dục phẳng (1 khe, 2 khe, 3 khe); ván chỏm cầu; ván lá sách,... (H 5.12).</para>
+        <para id="id8406050">Ván lưới kéo thường làm bằng gỗ có nẹp thép giữ bọc lại, trong một số ván chỏm cầu chỉ dùng toàn bằng thép. Gần đây người ta sử dụng nhiều ván các loại ván bầu dục và chỏm cầu, bởi độ mở của nó lớn hơn rất nhiều so với ván phẳng.</para>
+        <para id="id8406067">Lực mở của ván (R) là tổng của lực cản ma sát (Rx) và lực bổng thủy động (Ry).</para>
+        <para id="id8406111">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mover accent="true">
+                        <m:mi>R</m:mi>
+                        <m:mo stretchy="false">→</m:mo>
+                      </m:mover>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mover accent="true">
+                            <m:mi>R</m:mi>
+                            <m:mo stretchy="false">→</m:mo>
+                          </m:mover>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>x</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mover accent="true">
+                            <m:mi>R</m:mi>
+                            <m:mo stretchy="false">→</m:mo>
+                          </m:mover>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>y</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ { vec  {R}}= { vec  {R}} rSub { size 8{x} } + { vec  {R}} rSub { size 8{y} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id8406210">Hệ số lực mở của ván lưới (K) được tính như sau:</para>
+        <para id="id8406228">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mi>K</m:mi>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>R</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>y</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>R</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>x</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>y</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mtext>.</m:mtext>
+                            <m:mfrac>
+                              <m:msup>
+                                <m:mi fontstyle="italic">ρV</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:mn>2</m:mn>
+                            </m:mfrac>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>S</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>C</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>x</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mtext>.</m:mtext>
+                            <m:mfrac>
+                              <m:msup>
+                                <m:mi fontstyle="italic">ρV</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:mn>2</m:mn>
+                            </m:mfrac>
+                            <m:mtext>.</m:mtext>
+                            <m:mi>S</m:mi>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>y</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:msub>
+                          <m:mi>C</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>x</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{K= {  {R rSub { size 8{y} } }  over  {R rSub { size 8{x} } } } = {  {C rSub { size 8{y} }  "."  {  {ρV rSup { size 8{2} } }  over  {2} }  "." S}  over  {C rSub { size 8{x} }  "."  {  {ρV rSup { size 8{2} } }  over  {2} }  "." S} } = {  {C rSub { size 8{y} } }  over  {C rSub { size 8{x} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id7810134">Trong đó: Cx và Cy, tương ứng, là hệ số lực cản ma sát và hệ số lực bổng; ρ – là mật độ chất lỏng; V – là tốc độ dịch chuyển của ván lưới; S - là diện tích ván lưới kéo.</para>
+        <figure id="id8739886">
+          <media id="id7521017" alt=""><image src="../../media/graphics21.png" mime-type="image/png" height="280" width="476"/></media>
+        </figure>
+        <para id="id8739910">+ Cách liên kết ván vào các hệ thống lưới, dây đỏi và cáp kéo </para>
+        <para id="id8739929">Ta có sơ đồ liên kết ván với cáp kéo như sau (H 5.13):</para>
+        <figure id="id8739952">
+          <media id="id5160298" alt=""><image src="../../media/graphics22.png" mime-type="image/png" height="346" width="499"/></media>
+        </figure>
+      </section>
+      <section id="id-652235185723">
+        <title>Phương pháp biểu thị kích thước lưới kéo</title>
+        <para id="id8739985">Ở Việt Nam:</para>
+        <para id="id8740003">Số mắt lưới ở miệng x 2a miệng (mm) x Chiều dài từ cánh tới đụt (m)</para>
+        <para id="id8740010">Ở Trung quốc: Chiều dài viền phao (m) x Chu vi kéo căng ở miệng (m)</para>
+        <para id="id8740036">Số mắt lưới ở miệng</para>
+        <para id="id8740046">Ở Tây Âu: Chiều dài giềng phao (m) / Chu vi miệng lưới (m)</para>
+      </section>
+      <section id="id-0400115230748">
+        <title>Tàu đánh lưới kéo và kỹ thuật khai thác lưới kéo</title>
+        <section id="id-825416224951">
+          <title>Sơ đồ bố trí mặt boong tàu lưới kéo đuôi và tàu lưới kéo mạn</title>
+          <para id="id8713158">Trong thực tế đánh bắt bằng lưới Kéo ta thấy có hai kiểu bố trí mặt boong làm việc lá bố trí trước Cabin (Tàu lưới kéo mạn) hoặc sau Cabin (tài lưới kéo đuôi). Sự bố trí này tuỳ thuộc vào mục đích sử dụng nhưng cũng còn phụ thuộc vào kiểu thiết kế tàu truyền thống của từng địa phương khác nhau. Mỗi kiều bô trí đều có các ưu, nhược điểm riêng của nó.</para>
+          <section id="id-516370344625">
+            <title>Sơ đồ bố trí tàu lưới kéo mạn</title>
+            <para id="id8713183">Ta có một số sơ đồ bố trí mắt bằng boong ở một số tàu lưới kéo mạn như sau (H 5.14):</para>
+            <figure id="id8713206">
+              <media id="id8688533" alt=""><image src="../../media/graphics23.png" mime-type="image/png" height="447" width="476"/></media>
+            </figure>
+          </section>
+          <section id="id-543309546677">
+            <title>Sơ đồ bố trí tàu lưới kéo đuôi</title>
+            <para id="id8713239">Ta có một số sơ đồ bố trí mặt bằng boong ở một số tàu lưới kéo đuôi như sau (H 5.15):</para>
+            <figure id="id8713262">
+              <media id="id3742952" alt=""><image src="../../media/graphics24.png" mime-type="image/png" height="469" width="499"/></media>
+            </figure>
+          </section>
+        </section>
+      </section>
+      <section id="id-920966274622">
+        <title>Sơ đồ bố trí các thiết bị trên tàu lưới kéo mạn và kỹ thuật khai thác lưới kéo mạn</title>
+        <section id="id-502346128362">
+          <title>Sơ đồ bố trí hệ thống thu và thả lưới</title>
+          <para id="id8713308">Các trang thiết bị trực tiếp phục vụ cho khai thác lưới kéo, bao gồm các máy tời kéo và thả cáp; cần cẩu nâng lưới và ván; và một số trang thiết bị khác. Ta có sơ đồ bố trí hệ thống tời thả và thu lưới như sau (H 5.15):</para>
+          <figure id="id8364626">
+            <media id="id7569647" alt=""><image src="../../media/graphics25.png" mime-type="image/png" height="319" width="518"/></media>
+          </figure>
+        </section>
+        <section id="id-0681711147605">
+          <title>Kỹ thuật khai thác lưới kéo mạn</title>
+          <para id="id8364660">Kỹ thuật khai thác lưới kéo mạn gồm 5 bước: Chuẩn bị; Thả lưới; Dắt lưới; Thu lưới; và lấy cá (đồng thời chuẩn bị cho mẽ khai thác tiếp theo sau đó).</para>
+          <para id="id8364671">+ Chuẩn bị</para>
+          <para id="id8364683">Trước khi bắt đầu đi khai thác thì các công việc cần thiết phục vụ cho chuyến biển đều phải được chuẩn bị trước và đầy đủ. Phải kiểm tra lại lưới, các loại dây, đặc biệt là dây cáp kéo cần phải được so lại cho bằng nhau, có đánh dấu từng đoạn chiều dài, các lon lăn, ru-lô,... đều phải xem xét lại, thay thế nếu cần thiết. Cần dự phòng thêm một hoặc hai vàng lưới kéo để phòng khi rách hoặc mất lưới do gặp phải chướng ngại vật nền đáy trong quá trình hoạt động.</para>
+          <para id="id8364708">Tàu bè cũng phải được xem xét lại và nhiên liệu cho chuyến biển chuẩn bị đầy đủ. tuy hiên, nếu có thể bổ sung nhiên liệu được ở ngoài biển thì việc chuẩn bị nhiên liệu cũng tương đối vừa phải.</para>
+          <para id="id8364721">Lương thực, thực phẩm cũng cần phải chuẩn bị chu đáo nếu khai thác xa bờ và dài ngày.</para>
+          <para id="id8364729">Sau khi chuẩn bị tương đối đầy đủ các thứ cần thiết thì cho tàu hướng đến ngư trường dự định sẽ đánh bắt sau đó. </para>
+          <para id="id8364739">+ Thả lưới</para>
+          <para id="id8364750">Để đảm bảo cho việc khai thác được thuận lợi, ta phải theo qui trình kỹ thuật thao tác thả lưới Kéo như sau (Hình 5.16):</para>
+          <figure id="id8364772">
+            <media id="id8018258" alt=""><image src="../../media/graphics26.png" mime-type="image/png" height="438" width="457"/></media>
+          </figure>
+          <para id="id8364796">Công việc xác định ngư trường, tìm ra luồng cá để thả lưới thì phụ thuộc rất nhiều vào kinh nghiệm đánh bắt của thuyền trưởng và các thiết bị thăm dò cá. Sau khi đã chọn được vị trí, khu vực thả lưới, cũng như là hướng dắt lưới thì thuyền trưởng cho tàu giảm tốc độ. Tốc độ này được tính toán dựa theo tốc độ đi tới của tàu và tốc độ thả cáp kéo. </para>
+          <para id="id8364810">Đối với lưới kéo mạn cần căn cứ theo hướng nước, hướng gió mà thả lưới để đảm bảo cho lưới và ván không gặp sự cố khi bắt đầu thả. Cần phải đãm bảo nguyên tắc là sau khi thả lưới xong thì mạn làm việc phải nằm về phía dưới gió. Tiếp đó, nếu thấy lưới thả ra bình thường (lưới không bị lộn, xoắn,...) thì bắt đầu thả dây đỏi.</para>
+          <para id="id8364098">Để đảm bảo an toàn thả lưới trong điều kiện có sóng, gió lớn thì khi khi lưới đã xuống nước cần cho tàu chạy vòng tròn để lưới mở ra theo đúng hình dạng của nó.</para>
+          <para id="id8364106">Trong quá trình thả ván thì đầu tiên người ta thả ván mũi trước đến khi nào ván mũi đi ngang qua máy tời thì bắt đầu thả ván đuôi, phải thả dây ra từ từ để tránh hiện tượng chéo ván, dễ gây tại nạn cho lưới. Trong quá trình thả lưới phải tìm hiểu độ sâu nơi thả lưới, cần thả sao cho dây chạm đáy biển ở độ võng thích hợp, thông thường chiều dài cáp kéo thả ra phải gấp 3-4 lần độ sâu, nếu độ sâu nhỏ hơn 100 m nước, còn nếu độ sâu lớn hơn 100 m nước thì thả cáp dài gấp 2,5-3,0 lần độ sâu khai thác.</para>
+          <para id="id8364133">Khi ván gần chạm đáy biển thì phải giảm tốc độ cho ván rớt êm xuống nền đáy, nhằm tránh tai nạn cho ván, bởi nếu thả ván chìm quá nhanh ván có thể bị cắm bùn. Sau khi thả ván xong thì bắt đầu thả cáp kéo đủ chiều dài cần thiết, rồi dùng máy tời kéo cáp phía ngoài vào sát chung với cáp phía trong.</para>
+          <para id="id8364148">+ Dắt lưới </para>
+          <para id="id8364164">Thời gian dắt lưới cũng là thời gian làm ra sản lượng khai thác. Trong một chu kỳ của mẽ lưới đánh bắt thì giai đoạn này là thời gian trực tiếp làm ra sản phẩm. Trong giai đoạn dắt lưới, cần chú ý đến hai yếu tố cần thiết và quan trọng là: tốc độ dắt lưới và thời gian dắt lưới.</para>
+          <para id="id8364181">Tốc độ dắt lưới thì chưa hẳn là phụ thuộc vào tốc độ di chyển của cá. Đối với mỗi loại tàu nhất định nào đó và tuỳ từng loại cá mà sẽ có tốc độ dắt lưới tối ưu. Việc xác định tốc độ dắt lưới tối ưu thì phụ thuộc vào kinh nghiệm của người khai thác, trên cơ sở xác định được tốc độ cần thiết sao cho đảm bảo vừa đủ đánh bắt cá, bởi vì tốc độ lớn hơn hoặc nhỏ hơn tốc độ tối ưu này thì sản lượng khai thác sẽ giảm. Thí dụ, </para>
+          <para id="id8364204">- nếu gọi Pp là sức kéo của tàu = hằng số (const.) </para>
+          <para id="id8364222">- nếu gọi R là lực cản của lưới, R = K.S.V2. </para>
+          <para id="id8364240">Trong điều kiện làm việc bình thường thì: R = K.S.V2 = Pp= const. Nếu vận tốc dắt lưới tăng lên n lần, thì lực cản R tăng lên n2 lần, khi đó hiệu suất khai thác sẽ giảm, bởi tốc độ di chuyển của tàu giảm.</para>
+          <para id="id8364303">Thời gian dắt lưới thông thường từ (0,5 –3,0) giờ. Thời gian dắt lưới ngắn hay dài là tùy thuộc vào ngư trường rộng hay hẹp, mật độ cá nhiều hay ít. Nếu thời gian dắt lưới quá ít cá sẽ không vào nhiều, rất tốn công lao động và nhiên liệu cho phải tời thu thả lưới bở việc thu thả lưới quá nhiều lần, nhưng nếu thời gian dắt lưới quá dài có thể gây quá tải cho việc kéo lưới, mặt khác cá cũng bị hư hại nhiều. Do vậy, nếu chỉ là khai thác thăm dò ngư trường thì thời gian dắt lưới thăm dò có thể từ 0,4-1,0 giờ. Còn khi khai thác ổn định thì thời gian dắt cho một mẽ lưới có thể là 3 giờ.</para>
+          <para id="id8364335">Trong quá trình dắt lưới cần bám sát ngư trường hoặc đàn cá, bở đàn cá có thể chỉ xuất hiện trong một vùng nhỏ hoặc nằm ở luồng lạch hẹp. Do vậy, cần thay đổi phương dắt lưới, chạy tới rồi quay đầu lại theo hướng song song với hướng trước đó, cứ thế mà chạy đi, rồi quay lại nhiều lần. Trong thời gian này cũng cần theo dõi, để ý đến diễn biến tình hình các tàu bè đi lại hoặc các phương tiện, nghề khai thác khác xung quanh khu vực tàu ta đang hoạt động nhằm tránh gây sự cố va đụng tàu thuyền khác hoặc lưới kéo của ta có thể chạy cắt ngang ngư cụ khác như là lưới rê, nghề câu,... </para>
+          <para id="id8364365">+ Thu lưới</para>
+          <para id="id8364377">Ta có qui trình kỹ thuật thao tác thu lưới Kéo như sau (Hình 5.17):</para>
+          <para id="id8364396">
+            <media id="id1164229416282" alt=""><image src="../../media/graphics27.png" mime-type="image/png" height="316" width="405"/></media>
+          </para>
+          <para id="id8364430">Sau khi đủ thời gian mong muốn cho một mẽ lưới thì ta tiến hành thu lưới. Khi thu lưới, trước hết, ta cần giảm tốc độ tàu. Có thể cắt ly hợp số của máy tàu, chỉ cho tàu đi tới bằng trớn. Tiếp đó, cho máy tời hoạt động để thu cáp kéo, trong thời gian này cần cẩn thận xem xét coi hai ván có được cuốn lên đều không, bởi có thể có một ván bị xúc bùn, dễ gây nguy hiểm lật tàu. Đến khi nào hai ván đã lên hết trên mặt nước, ta tiến hành đưa ván lưới vào đúng giá treo của nó. Cần lưu ý là đối với lưới kéo thả mạn thì trong quá trình thu lưới cũng phải chạy vòng tròn ngược lại với quá trình thả lưới và theo nguyên tắc là mạn làm việc của tàu phải nằm cuối gió, nếu có sóng gió to.</para>
+          <para id="id8364468">+ Lấy cá</para>
+          <para id="id8364479">Sau khi thu lưới đến phần đụt thì cẩu đụt lên tàu, nếu sản lượng cao thì phải dùng đến dây phân chia sản lượng để cẩu từng phần, xổ cá ra, rồi tiếp tục thu phần còn lại. </para>
+          <para id="id8364491">Sau khi xổ tháo cá xong thì xem xét nếu thấy lưới bị rách một vài chổ nhỏ cần phải vá lại ngay, rồi thắt miệng đụt lại và tiếp tục chuẩn bị thả mẽ tiếp theo.</para>
+        </section>
+      </section>
+      <section id="id-424971110804">
+        <title>Sự bố trí, trang thiết bị lưới kéo đuôi và kỹ thuật khai thác lưới kéo đuôi.</title>
+        <section id="id-0819879474591">
+          <title>Sơ đồ bố trí lưới kéo đuôi</title>
+          <para id="id8559487">Ta có sơ đồ bố trí các trang thiết bị lưới kéo đuôi trên boong tàu như sau (H 5.18):</para>
+          <para id="id8559506"/>
+          <figure id="id8559536">
+            <media id="id4094828" alt=""><image src="../../media/graphics28.png" mime-type="image/png" height="264" width="452"/></media>
+          </figure>
+          <para id="id8559560">Ưu điểm của tàu lưới kéo đuôi là ít tiêu hao công suất hơn so với tàu kéo mạn. Thuận tiện cho việc thao tác lưới; ít làm hư hại cá, đảm bảo hướng dắt lưới và không phải quay trở khi thả và thu lưới, nhất là trong điều kiện gặp phải sóng to, gió lớn. Hiện nay tàu lưới kéo đuôi chiếm ưu thế trong nghề lưới kéo.</para>
+        </section>
+        <section id="id-765809672871">
+          <title>Kỹ thuật khai thác lưới kéo đuôi</title>
+          <para id="id8559591">Nhìn chung, kỹ thuật khai thác lưới kéo đuôi cũng gồn các bước: chuẩn bị, thả lưới, dắt lưới, thu lưới và bắt cá giống như lưới kéo mạn. Nhưng ở phần thả và thu lưới thì không phải thực hiện quay trở như lưới kéo mạn, do vậy lưới kéo đuôi thường được áp dụng trong nghề khai thác bằng lưới kéo.</para>
+        </section>
+      </section>
+      <section id="id-102822256352">
+        <title>Lưới kéo tàu đôi</title>
+        <para id="id8559615">Đặc điểm khác biệt của lưới cào đôi là không sử dụng ván lưới. Do vậy tránh được sự cố ván cắm bùn như trong lưới cào đơn. Nhưng để miệng lưới mở ra đòi hỏi hai tàu phải đi song song nhau ở khoảng cách nhất định. </para>
+        <para id="id8559624">Ưu điểm của lưới cào đôi là không cần tàu phải có công suất lớn, nhưng có thể kéo được miệng lưới lớn hơn so với tàu lưới kéo đơn, nếu so cùng tổng công suất.</para>
+        <para id="id8559632">Nhược điểm của lưới cào đôi là đòi hỏi hai tàu phải phối hợp nhịp nhàng. Điều này không dễ thực hiện trong điều kiện sóng to, gió lớn, hai tàu có thể va vào nhau, hoạt động miệng lưới không ổn định nếu tốc độ dắt lưới không như nhau. </para>
+      </section>
+      <section id="id-126704791266">
+        <title>Các tại nạn chủ yếu của lưới kéo</title>
+        <list id="id8559657" list-type="bulleted">
+          <item>Lưới bị biến hình</item>
+          <item>Bị lật lưới</item>
+          <item>Đứt dây cáp kéo và dây đỏi</item>
+          <item>Bi chéo ván hoặc ván cắm bùn</item>
+          <item>Bị vướng chướng ngại vật dưới nền đáy.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-862158438213">
+      <title>Lưới kéo tầng giữa</title>
+      <section id="id-516669844821">
+        <title>Cấu tạo của lưới kéo tầng giữa</title>
+        <para id="id8291114">Cấu tạo của lưới kéo tầng giữa thì đa số là lưới 4 tấm và kéo đôi (H 5.19). Lưới này chìm nhanh và mở nhanh, nhưng hoạt động của nó thì phức tạp hơn.</para>
+        <para id="id8291136">Đặc điểm của lưới kéo tầng giữa là có sự đối xứng trong cả hai mặt ngang và mặt đứng. Lưới kéo tầng giữa thì không trang bị chì nặng như lưới kéo tầng đáy và không có thiết bị chống mài mòn phía dưới.</para>
+        <para id="id8291145">Tàu và các trang thiết bị của lưới kéo tầng giữa thì cũng không khác nhiều so với lưới kéo tầng đáy.</para>
+        <figure id="id8291157">
+          <media id="id7408954" alt=""><image src="../../media/graphics29.png" mime-type="image/png" height="338" width="516"/></media>
+        </figure>
+      </section>
+      <section id="id-869831636399">
+        <title>Kỹ thuật khai thác lưới kéo tầng giữa</title>
+        <para id="id8291190">Cũng giống như lưới kéo tầng đáy, kỹ thuật khai thác lưới kéo tầng giữa cũng gồm 5 bước. Nhưng đi sâu vào từng bước có sự khác nhau.</para>
+        <para id="id8291201">Đối với lưới kéo tầng giữa nếu như không có trang bị máy đo sâu-dò cá thì rất khó xác định đàn cá. Để hoạt động lưới kéo tầng giữa, khi đến ngư trường người ta phải mở máy dò cá, tìm và xác định chính xác hình dáng, kích thước đàn cá trong cột nước.</para>
+        <para id="id8291216">Khi xác định được đàn cá có qui mô khai thác thì tiến hành thả lưới. Tàu có thể tiếp cận đàn cá từ mọi phía, nếu thời tiết tốt. Nếu thời tiết không tốt, có gió lớn thì nên đi xuôi gió. Khi tàu cách đàn cá từ 600-700 m thì bắt đầu thả lưới. Nếu định thả cáp có chiều dài L thì phải thả trừ đi 100-150 m, để đến khi nào tàu đi phía trên đầu đàn cá thì mới thả hết dây còn lại, vì đa số cá nổi khi gặp chướng ngại vật uy hiếp thì nó chui xuống sâu. Thơng thường người ta để mép trên của lưới trên đàn cá một chút.</para>
+        <para id="id8291244">Đối với lưới kéo tầng giữa thì thời gian dắt lưới ngắn, khi nào lưới quét qua đàn cá thì thu lưới lên tàu, tuy vậy điều này còn phụ thuộc vào máy móc thăm dò xác địng là có phải đả quét qua đàn cá hay chưa.</para>
+        <para id="id8291252">Do vậy, để đánh bắt lưới kéo tầng giữa thì yêu cầu trên tàu nhất thiết phải có trang bị máy dò cá nhằm phát hiện được đàn cá và xác định đúng vị trí của nó. Ngoài ra còn cần phải có phải quan sát cá ở miệng lưới để xác nhận cá có vào lưới hay không.</para>
+        <para id="id8291267">+ Kỹ thuật khai thác lưới kéo tầng giữa áp dụng cho hai tàu</para>
+        <para id="id8305140">Ta có sơ đồ phối hợp thao tác thả lưới kéo tầng giữa như sau (H 5.20):</para>
+        <figure id="id8305162">
+          <media id="id6023876" alt=""><image src="../../media/graphics30.png" mime-type="image/png" height="256" width="413"/></media>
+        </figure>
+        <para id="id8305186">Dựa vào hướng gió, đầu tiên tàu A thả lưới theo đúng qui định thì tàu phải ở cuối gió. Sau đó tàu B chuyền dây cho tàu A và tiến hành dắt lưới bởi hai tàu, song song nhau, với cùng tốc độ. Các bước khai thác khác cũng tương tự như lưới kéo tầng giữa một tàu. </para>
+      </section>
+    </section>
+  </content>
+</document>
